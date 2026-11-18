@@ -25,22 +25,6 @@
     "selected": {
       "feature_id": 260,
       "steering": {
-        "1": {
-          "mean": 0.09731276830037434,
-          "mean_abs": 0.09731276830037434,
-          "rms": 0.18827149073958915,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.374342600504557
-        },
-        "-1": {
-          "mean": -0.10537505149841309,
-          "mean_abs": 0.10537505149841309,
-          "rms": 0.20531098891475194,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.17165478070577
-        },
         "-0.5": {
           "mean": -0.05171394348144531,
           "mean_abs": 0.05171394348144531,
@@ -56,28 +40,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.3267292181650796
+        },
+        "-1.0": {
+          "mean": -0.10537505149841309,
+          "mean_abs": 0.10537505149841309,
+          "rms": 0.20531098891475194,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.17165478070577
+        },
+        "1.0": {
+          "mean": 0.09731276830037434,
+          "mean_abs": 0.09731276830037434,
+          "rms": 0.18827149073958915,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.374342600504557
         }
       }
     },
     "control_0": {
       "feature_id": 264,
       "steering": {
-        "1": {
-          "mean": -0.0042035579681396484,
-          "mean_abs": 0.015517473220825195,
-          "rms": 0.035582857911080776,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.2728262742360434
-        },
-        "-1": {
-          "mean": 0.00229493776957194,
-          "mean_abs": 0.01604946454366048,
-          "rms": 0.03607977493488412,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.279324769973755
-        },
         "-0.5": {
           "mean": 0.001371622085571289,
           "mean_abs": 0.007955153783162435,
@@ -93,28 +77,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.275186777114868
+        },
+        "-1.0": {
+          "mean": 0.00229493776957194,
+          "mean_abs": 0.01604946454366048,
+          "rms": 0.03607977493488412,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.279324769973755
+        },
+        "1.0": {
+          "mean": -0.0042035579681396484,
+          "mean_abs": 0.015517473220825195,
+          "rms": 0.035582857911080776,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2728262742360434
         }
       }
     },
     "control_1": {
       "feature_id": 981,
       "steering": {
-        "1": {
-          "mean": -0.053861776987711586,
-          "mean_abs": 0.053861776987711586,
-          "rms": 0.10582638858993569,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.223168055216471
-        },
-        "-1": {
-          "mean": 0.051056623458862305,
-          "mean_abs": 0.051056623458862305,
-          "rms": 0.10097830040490453,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.3280864556630454
-        },
         "-0.5": {
           "mean": 0.02589901288350423,
           "mean_abs": 0.02589901288350423,
@@ -130,28 +114,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.250438928604126
+        },
+        "-1.0": {
+          "mean": 0.051056623458862305,
+          "mean_abs": 0.051056623458862305,
+          "rms": 0.10097830040490453,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3280864556630454
+        },
+        "1.0": {
+          "mean": -0.053861776987711586,
+          "mean_abs": 0.053861776987711586,
+          "rms": 0.10582638858993569,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.223168055216471
         }
       }
     },
     "control_2": {
       "feature_id": 810,
       "steering": {
-        "1": {
-          "mean": 0.00167083740234375,
-          "mean_abs": 0.010472774505615234,
-          "rms": 0.02321545516696958,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.278700669606527
-        },
-        "-1": {
-          "mean": -0.004405657450358073,
-          "mean_abs": 0.010787645975748697,
-          "rms": 0.024192874092932384,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.2726241747538247
-        },
         "-0.5": {
           "mean": -0.0018683274586995442,
           "mean_abs": 0.005312681198120117,
@@ -167,28 +151,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.278222401936849
+        },
+        "-1.0": {
+          "mean": -0.004405657450358073,
+          "mean_abs": 0.010787645975748697,
+          "rms": 0.024192874092932384,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2726241747538247
+        },
+        "1.0": {
+          "mean": 0.00167083740234375,
+          "mean_abs": 0.010472774505615234,
+          "rms": 0.02321545516696958,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.278700669606527
         }
       }
     },
     "control_3": {
       "feature_id": 1116,
       "steering": {
-        "1": {
-          "mean": 0.037800868352254234,
-          "mean_abs": 0.037800868352254234,
-          "rms": 0.0740282091090504,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.314830700556437
-        },
-        "-1": {
-          "mean": -0.040696024894714355,
-          "mean_abs": 0.040696024894714355,
-          "rms": 0.0786309816333842,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.2363338073094687
-        },
         "-0.5": {
           "mean": -0.020010948181152344,
           "mean_abs": 0.020010948181152344,
@@ -204,28 +188,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.2963128884633384
+        },
+        "-1.0": {
+          "mean": -0.040696024894714355,
+          "mean_abs": 0.040696024894714355,
+          "rms": 0.0786309816333842,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2363338073094687
+        },
+        "1.0": {
+          "mean": 0.037800868352254234,
+          "mean_abs": 0.037800868352254234,
+          "rms": 0.0740282091090504,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.314830700556437
         }
       }
     },
     "control_4": {
       "feature_id": 124,
       "steering": {
-        "1": {
-          "mean": -0.07491056124369304,
-          "mean_abs": 0.07491056124369304,
-          "rms": 0.13954515807464865,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.2021192709604898
-        },
-        "-1": {
-          "mean": 0.07215340932210286,
-          "mean_abs": 0.07215340932210286,
-          "rms": 0.13423863871365266,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.3491832415262857
-        },
         "-0.5": {
           "mean": 0.03646532694498698,
           "mean_abs": 0.03646532694498698,
@@ -241,28 +225,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.2398807207743325
+        },
+        "-1.0": {
+          "mean": 0.07215340932210286,
+          "mean_abs": 0.07215340932210286,
+          "rms": 0.13423863871365266,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3491832415262857
+        },
+        "1.0": {
+          "mean": -0.07491056124369304,
+          "mean_abs": 0.07491056124369304,
+          "rms": 0.13954515807464865,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2021192709604898
         }
       }
     },
     "control_5": {
       "feature_id": 553,
       "steering": {
-        "1": {
-          "mean": -0.045078794161478676,
-          "mean_abs": 0.045078794161478676,
-          "rms": 0.0934691035019305,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.231951038042704
-        },
-        "-1": {
-          "mean": 0.04198161760965983,
-          "mean_abs": 0.04198161760965983,
-          "rms": 0.0868595667875233,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.3190114498138428
-        },
         "-0.5": {
           "mean": 0.021394968032836914,
           "mean_abs": 0.021394968032836914,
@@ -278,28 +262,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.2548583348592124
+        },
+        "-1.0": {
+          "mean": 0.04198161760965983,
+          "mean_abs": 0.04198161760965983,
+          "rms": 0.0868595667875233,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3190114498138428
+        },
+        "1.0": {
+          "mean": -0.045078794161478676,
+          "mean_abs": 0.045078794161478676,
+          "rms": 0.0934691035019305,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.231951038042704
         }
       }
     },
     "control_6": {
       "feature_id": 1394,
       "steering": {
-        "1": {
-          "mean": 0.03688605626424154,
-          "mean_abs": 0.03789250055948893,
-          "rms": 0.09172456520796282,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.3139158884684243
-        },
-        "-1": {
-          "mean": -0.03987526893615723,
-          "mean_abs": 0.04010399182637533,
-          "rms": 0.09718835698747098,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.237154563268026
-        },
         "-0.5": {
           "mean": -0.019587278366088867,
           "mean_abs": 0.019777218500773113,
@@ -315,28 +299,28 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.295868396759033
+        },
+        "-1.0": {
+          "mean": -0.03987526893615723,
+          "mean_abs": 0.04010399182637533,
+          "rms": 0.09718835698747098,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.237154563268026
+        },
+        "1.0": {
+          "mean": 0.03688605626424154,
+          "mean_abs": 0.03789250055948893,
+          "rms": 0.09172456520796282,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3139158884684243
         }
       }
     },
     "control_7": {
       "feature_id": 44,
       "steering": {
-        "1": {
-          "mean": 0.04952200253804525,
-          "mean_abs": 0.04952200253804525,
-          "rms": 0.09222168336239385,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.326551834742228
-        },
-        "-1": {
-          "mean": -0.05549168586730957,
-          "mean_abs": 0.05549168586730957,
-          "rms": 0.10371149221376874,
-          "fraction_nonzero": 0.3125,
-          "pairwise_accuracy": 1,
-          "mean_gap_after": 3.2215381463368735
-        },
         "-0.5": {
           "mean": -0.027016560236612957,
           "mean_abs": 0.027016560236612957,
@@ -352,6 +336,22 @@
           "fraction_nonzero": 0.3125,
           "pairwise_accuracy": 1,
           "mean_gap_after": 3.3025516668955484
+        },
+        "-1.0": {
+          "mean": -0.05549168586730957,
+          "mean_abs": 0.05549168586730957,
+          "rms": 0.10371149221376874,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2215381463368735
+        },
+        "1.0": {
+          "mean": 0.04952200253804525,
+          "mean_abs": 0.04952200253804525,
+          "rms": 0.09222168336239385,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.326551834742228
         }
       }
     }
