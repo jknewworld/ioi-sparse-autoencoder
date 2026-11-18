@@ -1,0 +1,385 @@
+condition,feature_id,strength,pair_id,template_id,io_first,subject,io,prompt,original_gap,steered_gap,gap_change
+control_1,981,-1.0,0,0,0,Elizabeth,Paul,"When Elizabeth and Paul went to the store, Elizabeth gave a bottle to",2.7541885375976562,2.907318115234375,0.15312957763671875
+control_1,981,-1.0,0,0,1,Paul,Elizabeth,"When Elizabeth and Paul went to the store, Paul gave a bottle to",3.7447128295898438,3.7447128295898438,0.0
+control_1,981,-1.0,1,0,0,Jessica,Sophie,"When Jessica and Sophie went to the store, Jessica gave a bottle to",1.4448623657226562,1.6277999877929688,0.1829376220703125
+control_1,981,-1.0,1,0,1,Sophie,Jessica,"When Jessica and Sophie went to the store, Sophie gave a bottle to",3.9347457885742188,3.9347457885742188,0.0
+control_1,981,-1.0,2,0,0,Charles,Sophie,"When Charles and Sophie went to the store, Charles gave a bottle to",5.3745269775390625,5.525566101074219,0.15103912353515625
+control_1,981,-1.0,2,0,1,Sophie,Charles,"When Charles and Sophie went to the store, Sophie gave a bottle to",5.774971008300781,5.774971008300781,0.0
+control_1,981,-1.0,3,1,0,Elizabeth,Jacob,"After Elizabeth and Jacob visited the park, Elizabeth handed a ball to",2.2460479736328125,2.3216094970703125,0.0755615234375
+control_1,981,-1.0,3,1,1,Jacob,Elizabeth,"After Elizabeth and Jacob visited the park, Jacob handed a ball to",3.1522293090820312,3.1522293090820312,0.0
+control_1,981,-1.0,4,1,0,Charles,Sophie,"After Charles and Sophie visited the park, Charles handed a ball to",4.680335998535156,4.7810211181640625,0.10068511962890625
+control_1,981,-1.0,4,1,1,Sophie,Charles,"After Charles and Sophie visited the park, Sophie handed a ball to",4.9826202392578125,4.9826202392578125,0.0
+control_1,981,-1.0,5,3,0,Elizabeth,Sophie,"At the market, Elizabeth met Sophie, and Elizabeth gave a present to",1.64385986328125,1.64385986328125,0.0
+control_1,981,-1.0,5,3,1,Sophie,Elizabeth,"At the market, Elizabeth met Sophie, and Sophie gave a present to",1.2173233032226562,1.2173233032226562,0.0
+control_1,981,-1.0,6,1,0,George,Sophie,"After George and Sophie visited the park, George handed a ball to",2.6743850708007812,2.7193450927734375,0.04496002197265625
+control_1,981,-1.0,6,1,1,Sophie,George,"After George and Sophie visited the park, Sophie handed a ball to",6.134300231933594,6.134300231933594,0.0
+control_1,981,-1.0,7,1,0,Jacob,Charles,"After Jacob and Charles visited the park, Jacob handed a ball to",3.0420684814453125,3.2461929321289062,0.20412445068359375
+control_1,981,-1.0,7,1,1,Charles,Jacob,"After Jacob and Charles visited the park, Charles handed a ball to",3.9489822387695312,3.9489822387695312,0.0
+control_1,981,-1.0,8,2,0,Jacob,Jessica,"When Jacob and Jessica arrived at school, Jacob passed a note to",5.5489044189453125,5.5489044189453125,0.0
+control_1,981,-1.0,8,2,1,Jessica,Jacob,"When Jacob and Jessica arrived at school, Jessica passed a note to",5.210899353027344,5.210899353027344,0.0
+control_1,981,-1.0,9,0,0,Jessica,Paul,"When Jessica and Paul went to the store, Jessica gave a bottle to",3.0431671142578125,3.2535552978515625,0.21038818359375
+control_1,981,-1.0,9,0,1,Paul,Jessica,"When Jessica and Paul went to the store, Paul gave a bottle to",4.177513122558594,4.177513122558594,0.0
+control_1,981,-1.0,10,2,0,George,Sophie,"When George and Sophie arrived at school, George passed a note to",3.4087753295898438,3.4087753295898438,0.0
+control_1,981,-1.0,10,2,1,Sophie,George,"When George and Sophie arrived at school, Sophie passed a note to",4.425575256347656,4.425575256347656,0.0
+control_1,981,-1.0,11,2,0,Jacob,George,"When Jacob and George arrived at school, Jacob passed a note to",5.3670654296875,5.3670654296875,0.0
+control_1,981,-1.0,11,2,1,George,Jacob,"When Jacob and George arrived at school, George passed a note to",0.44457244873046875,0.44457244873046875,0.0
+control_1,981,-1.0,12,1,0,Charles,Martin,"After Charles and Martin visited the park, Charles handed a ball to",4.2510528564453125,4.4655609130859375,0.214508056640625
+control_1,981,-1.0,12,1,1,Martin,Charles,"After Charles and Martin visited the park, Martin handed a ball to",2.6390533447265625,2.6390533447265625,0.0
+control_1,981,-1.0,13,1,0,Jessica,Charles,"After Jessica and Charles visited the park, Jessica handed a ball to",3.0063400268554688,3.1689529418945312,0.1626129150390625
+control_1,981,-1.0,13,1,1,Charles,Jessica,"After Jessica and Charles visited the park, Charles handed a ball to",4.739646911621094,4.739646911621094,0.0
+control_1,981,-1.0,14,3,0,Martin,George,"At the market, Martin met George, and Martin gave a present to",2.8321762084960938,2.8321762084960938,0.0
+control_1,981,-1.0,14,3,1,George,Martin,"At the market, Martin met George, and George gave a present to",0.6671600341796875,0.6671600341796875,0.0
+control_1,981,-1.0,15,3,0,Jacob,Martin,"At the market, Jacob met Martin, and Jacob gave a present to",1.4948272705078125,1.4948272705078125,0.0
+control_1,981,-1.0,15,3,1,Martin,Jacob,"At the market, Jacob met Martin, and Martin gave a present to",2.23077392578125,2.23077392578125,0.0
+control_1,981,-1.0,16,0,0,Jessica,George,"When Jessica and George went to the store, Jessica gave a bottle to",5.336112976074219,5.619575500488281,0.2834625244140625
+control_1,981,-1.0,16,0,1,George,Jessica,"When Jessica and George went to the store, George gave a bottle to",3.2097702026367188,3.2097702026367188,0.0
+control_1,981,-1.0,17,2,0,Charles,George,"When Charles and George arrived at school, Charles passed a note to",3.7949447631835938,3.7949447631835938,0.0
+control_1,981,-1.0,17,2,1,George,Charles,"When Charles and George arrived at school, George passed a note to",0.20610809326171875,0.20610809326171875,0.0
+control_1,981,-1.0,18,3,0,Jessica,Sophie,"At the market, Jessica met Sophie, and Jessica gave a present to",0.9130935668945312,0.9130935668945312,0.0
+control_1,981,-1.0,18,3,1,Sophie,Jessica,"At the market, Jessica met Sophie, and Sophie gave a present to",2.6149139404296875,2.6149139404296875,0.0
+control_1,981,-1.0,19,0,0,Charles,Martin,"When Charles and Martin went to the store, Charles gave a bottle to",5.283378601074219,5.6031341552734375,0.31975555419921875
+control_1,981,-1.0,19,0,1,Martin,Charles,"When Charles and Martin went to the store, Martin gave a bottle to",2.5035171508789062,2.5035171508789062,0.0
+control_1,981,-1.0,20,0,0,Sophie,Paul,"When Sophie and Paul went to the store, Sophie gave a bottle to",3.7779083251953125,4.034454345703125,0.2565460205078125
+control_1,981,-1.0,20,0,1,Paul,Sophie,"When Sophie and Paul went to the store, Paul gave a bottle to",3.3776016235351562,3.3776016235351562,0.0
+control_1,981,-1.0,21,3,0,Elizabeth,Jacob,"At the market, Elizabeth met Jacob, and Elizabeth gave a present to",2.5308303833007812,2.5308303833007812,0.0
+control_1,981,-1.0,21,3,1,Jacob,Elizabeth,"At the market, Elizabeth met Jacob, and Jacob gave a present to",3.059906005859375,3.059906005859375,0.0
+control_1,981,-1.0,22,1,0,Martin,George,"After Martin and George visited the park, Martin handed a ball to",3.5582199096679688,3.630218505859375,0.07199859619140625
+control_1,981,-1.0,22,1,1,George,Martin,"After Martin and George visited the park, George handed a ball to",1.32122802734375,1.32122802734375,0.0
+control_1,981,-1.0,23,1,0,Martin,Sophie,"After Martin and Sophie visited the park, Martin handed a ball to",4.579887390136719,4.604766845703125,0.02487945556640625
+control_1,981,-1.0,23,1,1,Sophie,Martin,"After Martin and Sophie visited the park, Sophie handed a ball to",4.248741149902344,4.248741149902344,0.0
+control_1,981,-1.0,24,1,0,Jessica,George,"After Jessica and George visited the park, Jessica handed a ball to",4.4005126953125,4.5768280029296875,0.1763153076171875
+control_1,981,-1.0,24,1,1,George,Jessica,"After Jessica and George visited the park, George handed a ball to",3.1932601928710938,3.1932601928710938,0.0
+control_1,981,-1.0,25,1,0,Martin,Paul,"After Martin and Paul visited the park, Martin handed a ball to",3.8957748413085938,3.982635498046875,0.08686065673828125
+control_1,981,-1.0,25,1,1,Paul,Martin,"After Martin and Paul visited the park, Paul handed a ball to",2.8912353515625,2.8912353515625,0.0
+control_1,981,-1.0,26,2,0,Jessica,Paul,"When Jessica and Paul arrived at school, Jessica passed a note to",2.7099075317382812,2.7099075317382812,0.0
+control_1,981,-1.0,26,2,1,Paul,Jessica,"When Jessica and Paul arrived at school, Paul passed a note to",3.1995391845703125,3.1995391845703125,0.0
+control_1,981,-1.0,27,1,0,Jacob,Sophie,"After Jacob and Sophie visited the park, Jacob handed a ball to",3.421966552734375,3.5367507934570312,0.11478424072265625
+control_1,981,-1.0,27,1,1,Sophie,Jacob,"After Jacob and Sophie visited the park, Sophie handed a ball to",6.159263610839844,6.159263610839844,0.0
+control_1,981,-1.0,28,3,0,Jacob,Charles,"At the market, Jacob met Charles, and Jacob gave a present to",1.2776107788085938,1.2776107788085938,0.0
+control_1,981,-1.0,28,3,1,Charles,Jacob,"At the market, Jacob met Charles, and Charles gave a present to",2.47491455078125,2.47491455078125,0.0
+control_1,981,-1.0,29,1,0,Sophie,Paul,"After Sophie and Paul visited the park, Sophie handed a ball to",2.5472488403320312,2.7086563110351562,0.161407470703125
+control_1,981,-1.0,29,1,1,Paul,Sophie,"After Sophie and Paul visited the park, Paul handed a ball to",3.7773361206054688,3.7773361206054688,0.0
+control_1,981,-1.0,30,2,0,Jessica,Martin,"When Jessica and Martin arrived at school, Jessica passed a note to",3.883331298828125,3.883331298828125,0.0
+control_1,981,-1.0,30,2,1,Martin,Jessica,"When Jessica and Martin arrived at school, Martin passed a note to",1.5830612182617188,1.5830612182617188,0.0
+control_1,981,-1.0,31,0,0,George,Paul,"When George and Paul went to the store, George gave a bottle to",2.7343597412109375,2.8573379516601562,0.12297821044921875
+control_1,981,-1.0,31,0,1,Paul,George,"When George and Paul went to the store, Paul gave a bottle to",3.1021270751953125,3.1021270751953125,0.0
+control_1,981,-1.0,32,3,0,Jacob,George,"At the market, Jacob met George, and Jacob gave a present to",2.7904510498046875,2.7904510498046875,0.0
+control_1,981,-1.0,32,3,1,George,Jacob,"At the market, Jacob met George, and George gave a present to",1.295928955078125,1.295928955078125,0.0
+control_1,981,-1.0,33,1,0,Elizabeth,Jessica,"After Elizabeth and Jessica visited the park, Elizabeth handed a ball to",2.4010391235351562,2.4639434814453125,0.06290435791015625
+control_1,981,-1.0,33,1,1,Jessica,Elizabeth,"After Elizabeth and Jessica visited the park, Jessica handed a ball to",2.2579116821289062,2.2579116821289062,0.0
+control_1,981,-1.0,34,3,0,Elizabeth,Martin,"At the market, Elizabeth met Martin, and Elizabeth gave a present to",2.8537521362304688,2.8537521362304688,0.0
+control_1,981,-1.0,34,3,1,Martin,Elizabeth,"At the market, Elizabeth met Martin, and Martin gave a present to",1.97552490234375,1.97552490234375,0.0
+control_1,981,-1.0,35,1,0,Jacob,Paul,"After Jacob and Paul visited the park, Jacob handed a ball to",2.8360519409179688,3.0423355102539062,0.2062835693359375
+control_1,981,-1.0,35,1,1,Paul,Jacob,"After Jacob and Paul visited the park, Paul handed a ball to",4.105171203613281,4.105171203613281,0.0
+control_1,981,-1.0,36,2,0,Jacob,Paul,"When Jacob and Paul arrived at school, Jacob passed a note to",3.7275238037109375,3.7275238037109375,0.0
+control_1,981,-1.0,36,2,1,Paul,Jacob,"When Jacob and Paul arrived at school, Paul passed a note to",2.6325225830078125,2.6325225830078125,0.0
+control_1,981,-1.0,37,0,0,Jacob,Jessica,"When Jacob and Jessica went to the store, Jacob gave a bottle to",6.3707427978515625,6.66522216796875,0.2944793701171875
+control_1,981,-1.0,37,0,1,Jessica,Jacob,"When Jacob and Jessica went to the store, Jessica gave a bottle to",6.956230163574219,6.956230163574219,0.0
+control_1,981,-1.0,38,0,0,Martin,George,"When Martin and George went to the store, Martin gave a bottle to",3.940460205078125,4.038330078125,0.097869873046875
+control_1,981,-1.0,38,0,1,George,Martin,"When Martin and George went to the store, George gave a bottle to",1.4483489990234375,1.4483489990234375,0.0
+control_1,981,-1.0,39,2,0,Charles,Paul,"When Charles and Paul arrived at school, Charles passed a note to",2.3915863037109375,2.3915863037109375,0.0
+control_1,981,-1.0,39,2,1,Paul,Charles,"When Charles and Paul arrived at school, Paul passed a note to",1.8078842163085938,1.8078842163085938,0.0
+control_1,981,-1.0,40,1,0,George,Paul,"After George and Paul visited the park, George handed a ball to",1.865997314453125,1.94683837890625,0.080841064453125
+control_1,981,-1.0,40,1,1,Paul,George,"After George and Paul visited the park, Paul handed a ball to",3.3690719604492188,3.3690719604492188,0.0
+control_1,981,-1.0,41,0,0,Jessica,Charles,"When Jessica and Charles went to the store, Jessica gave a bottle to",3.72894287109375,3.9892120361328125,0.2602691650390625
+control_1,981,-1.0,41,0,1,Charles,Jessica,"When Jessica and Charles went to the store, Charles gave a bottle to",5.170692443847656,5.170692443847656,0.0
+control_1,981,-1.0,42,1,0,Jacob,Jessica,"After Jacob and Jessica visited the park, Jacob handed a ball to",5.221412658691406,5.434028625488281,0.212615966796875
+control_1,981,-1.0,42,1,1,Jessica,Jacob,"After Jacob and Jessica visited the park, Jessica handed a ball to",6.497932434082031,6.497932434082031,0.0
+control_1,981,-1.0,43,1,0,Charles,George,"After Charles and George visited the park, Charles handed a ball to",4.265296936035156,4.4152984619140625,0.15000152587890625
+control_1,981,-1.0,43,1,1,George,Charles,"After Charles and George visited the park, George handed a ball to",1.0114593505859375,1.0114593505859375,0.0
+control_1,981,-1.0,44,1,0,Charles,Paul,"After Charles and Paul visited the park, Charles handed a ball to",2.801788330078125,2.9664459228515625,0.1646575927734375
+control_1,981,-1.0,44,1,1,Paul,Charles,"After Charles and Paul visited the park, Paul handed a ball to",2.6958541870117188,2.6958541870117188,0.0
+control_1,981,-1.0,45,3,0,Charles,Paul,"At the market, Charles met Paul, and Charles gave a present to",1.5292282104492188,1.5292282104492188,0.0
+control_1,981,-1.0,45,3,1,Paul,Charles,"At the market, Charles met Paul, and Paul gave a present to",2.6810684204101562,2.6810684204101562,0.0
+control_1,981,-1.0,46,1,0,Jacob,Martin,"After Jacob and Martin visited the park, Jacob handed a ball to",3.8211593627929688,4.073738098144531,0.2525787353515625
+control_1,981,-1.0,46,1,1,Martin,Jacob,"After Jacob and Martin visited the park, Martin handed a ball to",4.411201477050781,4.411201477050781,0.0
+control_1,981,-1.0,47,2,0,Elizabeth,Jessica,"When Elizabeth and Jessica arrived at school, Elizabeth passed a note to",2.1545639038085938,2.1545639038085938,0.0
+control_1,981,-1.0,47,2,1,Jessica,Elizabeth,"When Elizabeth and Jessica arrived at school, Jessica passed a note to",1.7727890014648438,1.7727890014648438,0.0
+control_1,981,-0.5,0,0,0,Elizabeth,Paul,"When Elizabeth and Paul went to the store, Elizabeth gave a bottle to",2.7541885375976562,2.8312759399414062,0.07708740234375
+control_1,981,-0.5,0,0,1,Paul,Elizabeth,"When Elizabeth and Paul went to the store, Paul gave a bottle to",3.7447128295898438,3.7447128295898438,0.0
+control_1,981,-0.5,1,0,0,Jessica,Sophie,"When Jessica and Sophie went to the store, Jessica gave a bottle to",1.4448623657226562,1.537078857421875,0.09221649169921875
+control_1,981,-0.5,1,0,1,Sophie,Jessica,"When Jessica and Sophie went to the store, Sophie gave a bottle to",3.9347457885742188,3.9347457885742188,0.0
+control_1,981,-0.5,2,0,0,Charles,Sophie,"When Charles and Sophie went to the store, Charles gave a bottle to",5.3745269775390625,5.453956604003906,0.07942962646484375
+control_1,981,-0.5,2,0,1,Sophie,Charles,"When Charles and Sophie went to the store, Sophie gave a bottle to",5.774971008300781,5.774971008300781,0.0
+control_1,981,-0.5,3,1,0,Elizabeth,Jacob,"After Elizabeth and Jacob visited the park, Elizabeth handed a ball to",2.2460479736328125,2.2837905883789062,0.03774261474609375
+control_1,981,-0.5,3,1,1,Jacob,Elizabeth,"After Elizabeth and Jacob visited the park, Jacob handed a ball to",3.1522293090820312,3.1522293090820312,0.0
+control_1,981,-0.5,4,1,0,Charles,Sophie,"After Charles and Sophie visited the park, Charles handed a ball to",4.680335998535156,4.732879638671875,0.05254364013671875
+control_1,981,-0.5,4,1,1,Sophie,Charles,"After Charles and Sophie visited the park, Sophie handed a ball to",4.9826202392578125,4.9826202392578125,0.0
+control_1,981,-0.5,5,3,0,Elizabeth,Sophie,"At the market, Elizabeth met Sophie, and Elizabeth gave a present to",1.64385986328125,1.64385986328125,0.0
+control_1,981,-0.5,5,3,1,Sophie,Elizabeth,"At the market, Elizabeth met Sophie, and Sophie gave a present to",1.2173233032226562,1.2173233032226562,0.0
+control_1,981,-0.5,6,1,0,George,Sophie,"After George and Sophie visited the park, George handed a ball to",2.6743850708007812,2.6984329223632812,0.0240478515625
+control_1,981,-0.5,6,1,1,Sophie,George,"After George and Sophie visited the park, Sophie handed a ball to",6.134300231933594,6.134300231933594,0.0
+control_1,981,-0.5,7,1,0,Jacob,Charles,"After Jacob and Charles visited the park, Jacob handed a ball to",3.0420684814453125,3.1444091796875,0.1023406982421875
+control_1,981,-0.5,7,1,1,Charles,Jacob,"After Jacob and Charles visited the park, Charles handed a ball to",3.9489822387695312,3.9489822387695312,0.0
+control_1,981,-0.5,8,2,0,Jacob,Jessica,"When Jacob and Jessica arrived at school, Jacob passed a note to",5.5489044189453125,5.5489044189453125,0.0
+control_1,981,-0.5,8,2,1,Jessica,Jacob,"When Jacob and Jessica arrived at school, Jessica passed a note to",5.210899353027344,5.210899353027344,0.0
+control_1,981,-0.5,9,0,0,Jessica,Paul,"When Jessica and Paul went to the store, Jessica gave a bottle to",3.0431671142578125,3.149810791015625,0.1066436767578125
+control_1,981,-0.5,9,0,1,Paul,Jessica,"When Jessica and Paul went to the store, Paul gave a bottle to",4.177513122558594,4.177513122558594,0.0
+control_1,981,-0.5,10,2,0,George,Sophie,"When George and Sophie arrived at school, George passed a note to",3.4087753295898438,3.4087753295898438,0.0
+control_1,981,-0.5,10,2,1,Sophie,George,"When George and Sophie arrived at school, Sophie passed a note to",4.425575256347656,4.425575256347656,0.0
+control_1,981,-0.5,11,2,0,Jacob,George,"When Jacob and George arrived at school, Jacob passed a note to",5.3670654296875,5.3670654296875,0.0
+control_1,981,-0.5,11,2,1,George,Jacob,"When Jacob and George arrived at school, George passed a note to",0.44457244873046875,0.44457244873046875,0.0
+control_1,981,-0.5,12,1,0,Charles,Martin,"After Charles and Martin visited the park, Charles handed a ball to",4.2510528564453125,4.3592681884765625,0.10821533203125
+control_1,981,-0.5,12,1,1,Martin,Charles,"After Charles and Martin visited the park, Martin handed a ball to",2.6390533447265625,2.6390533447265625,0.0
+control_1,981,-0.5,13,1,0,Jessica,Charles,"After Jessica and Charles visited the park, Jessica handed a ball to",3.0063400268554688,3.0880050659179688,0.0816650390625
+control_1,981,-0.5,13,1,1,Charles,Jessica,"After Jessica and Charles visited the park, Charles handed a ball to",4.739646911621094,4.739646911621094,0.0
+control_1,981,-0.5,14,3,0,Martin,George,"At the market, Martin met George, and Martin gave a present to",2.8321762084960938,2.8321762084960938,0.0
+control_1,981,-0.5,14,3,1,George,Martin,"At the market, Martin met George, and George gave a present to",0.6671600341796875,0.6671600341796875,0.0
+control_1,981,-0.5,15,3,0,Jacob,Martin,"At the market, Jacob met Martin, and Jacob gave a present to",1.4948272705078125,1.4948272705078125,0.0
+control_1,981,-0.5,15,3,1,Martin,Jacob,"At the market, Jacob met Martin, and Martin gave a present to",2.23077392578125,2.23077392578125,0.0
+control_1,981,-0.5,16,0,0,Jessica,George,"When Jessica and George went to the store, Jessica gave a bottle to",5.336112976074219,5.4786834716796875,0.14257049560546875
+control_1,981,-0.5,16,0,1,George,Jessica,"When Jessica and George went to the store, George gave a bottle to",3.2097702026367188,3.2097702026367188,0.0
+control_1,981,-0.5,17,2,0,Charles,George,"When Charles and George arrived at school, Charles passed a note to",3.7949447631835938,3.7949447631835938,0.0
+control_1,981,-0.5,17,2,1,George,Charles,"When Charles and George arrived at school, George passed a note to",0.20610809326171875,0.20610809326171875,0.0
+control_1,981,-0.5,18,3,0,Jessica,Sophie,"At the market, Jessica met Sophie, and Jessica gave a present to",0.9130935668945312,0.9130935668945312,0.0
+control_1,981,-0.5,18,3,1,Sophie,Jessica,"At the market, Jessica met Sophie, and Sophie gave a present to",2.6149139404296875,2.6149139404296875,0.0
+control_1,981,-0.5,19,0,0,Charles,Martin,"When Charles and Martin went to the store, Charles gave a bottle to",5.283378601074219,5.445549011230469,0.16217041015625
+control_1,981,-0.5,19,0,1,Martin,Charles,"When Charles and Martin went to the store, Martin gave a bottle to",2.5035171508789062,2.5035171508789062,0.0
+control_1,981,-0.5,20,0,0,Sophie,Paul,"When Sophie and Paul went to the store, Sophie gave a bottle to",3.7779083251953125,3.9065017700195312,0.12859344482421875
+control_1,981,-0.5,20,0,1,Paul,Sophie,"When Sophie and Paul went to the store, Paul gave a bottle to",3.3776016235351562,3.3776016235351562,0.0
+control_1,981,-0.5,21,3,0,Elizabeth,Jacob,"At the market, Elizabeth met Jacob, and Elizabeth gave a present to",2.5308303833007812,2.5308303833007812,0.0
+control_1,981,-0.5,21,3,1,Jacob,Elizabeth,"At the market, Elizabeth met Jacob, and Jacob gave a present to",3.059906005859375,3.059906005859375,0.0
+control_1,981,-0.5,22,1,0,Martin,George,"After Martin and George visited the park, Martin handed a ball to",3.5582199096679688,3.5947799682617188,0.03656005859375
+control_1,981,-0.5,22,1,1,George,Martin,"After Martin and George visited the park, George handed a ball to",1.32122802734375,1.32122802734375,0.0
+control_1,981,-0.5,23,1,0,Martin,Sophie,"After Martin and Sophie visited the park, Martin handed a ball to",4.579887390136719,4.594261169433594,0.014373779296875
+control_1,981,-0.5,23,1,1,Sophie,Martin,"After Martin and Sophie visited the park, Sophie handed a ball to",4.248741149902344,4.248741149902344,0.0
+control_1,981,-0.5,24,1,0,Jessica,George,"After Jessica and George visited the park, Jessica handed a ball to",4.4005126953125,4.4889984130859375,0.0884857177734375
+control_1,981,-0.5,24,1,1,George,Jessica,"After Jessica and George visited the park, George handed a ball to",3.1932601928710938,3.1932601928710938,0.0
+control_1,981,-0.5,25,1,0,Martin,Paul,"After Martin and Paul visited the park, Martin handed a ball to",3.8957748413085938,3.9405288696289062,0.0447540283203125
+control_1,981,-0.5,25,1,1,Paul,Martin,"After Martin and Paul visited the park, Paul handed a ball to",2.8912353515625,2.8912353515625,0.0
+control_1,981,-0.5,26,2,0,Jessica,Paul,"When Jessica and Paul arrived at school, Jessica passed a note to",2.7099075317382812,2.7099075317382812,0.0
+control_1,981,-0.5,26,2,1,Paul,Jessica,"When Jessica and Paul arrived at school, Paul passed a note to",3.1995391845703125,3.1995391845703125,0.0
+control_1,981,-0.5,27,1,0,Jacob,Sophie,"After Jacob and Sophie visited the park, Jacob handed a ball to",3.421966552734375,3.4807281494140625,0.0587615966796875
+control_1,981,-0.5,27,1,1,Sophie,Jacob,"After Jacob and Sophie visited the park, Sophie handed a ball to",6.159263610839844,6.159263610839844,0.0
+control_1,981,-0.5,28,3,0,Jacob,Charles,"At the market, Jacob met Charles, and Jacob gave a present to",1.2776107788085938,1.2776107788085938,0.0
+control_1,981,-0.5,28,3,1,Charles,Jacob,"At the market, Jacob met Charles, and Charles gave a present to",2.47491455078125,2.47491455078125,0.0
+control_1,981,-0.5,29,1,0,Sophie,Paul,"After Sophie and Paul visited the park, Sophie handed a ball to",2.5472488403320312,2.6280136108398438,0.0807647705078125
+control_1,981,-0.5,29,1,1,Paul,Sophie,"After Sophie and Paul visited the park, Paul handed a ball to",3.7773361206054688,3.7773361206054688,0.0
+control_1,981,-0.5,30,2,0,Jessica,Martin,"When Jessica and Martin arrived at school, Jessica passed a note to",3.883331298828125,3.883331298828125,0.0
+control_1,981,-0.5,30,2,1,Martin,Jessica,"When Jessica and Martin arrived at school, Martin passed a note to",1.5830612182617188,1.5830612182617188,0.0
+control_1,981,-0.5,31,0,0,George,Paul,"When George and Paul went to the store, George gave a bottle to",2.7343597412109375,2.7980499267578125,0.063690185546875
+control_1,981,-0.5,31,0,1,Paul,George,"When George and Paul went to the store, Paul gave a bottle to",3.1021270751953125,3.1021270751953125,0.0
+control_1,981,-0.5,32,3,0,Jacob,George,"At the market, Jacob met George, and Jacob gave a present to",2.7904510498046875,2.7904510498046875,0.0
+control_1,981,-0.5,32,3,1,George,Jacob,"At the market, Jacob met George, and George gave a present to",1.295928955078125,1.295928955078125,0.0
+control_1,981,-0.5,33,1,0,Elizabeth,Jessica,"After Elizabeth and Jessica visited the park, Elizabeth handed a ball to",2.4010391235351562,2.4323806762695312,0.031341552734375
+control_1,981,-0.5,33,1,1,Jessica,Elizabeth,"After Elizabeth and Jessica visited the park, Jessica handed a ball to",2.2579116821289062,2.2579116821289062,0.0
+control_1,981,-0.5,34,3,0,Elizabeth,Martin,"At the market, Elizabeth met Martin, and Elizabeth gave a present to",2.8537521362304688,2.8537521362304688,0.0
+control_1,981,-0.5,34,3,1,Martin,Elizabeth,"At the market, Elizabeth met Martin, and Martin gave a present to",1.97552490234375,1.97552490234375,0.0
+control_1,981,-0.5,35,1,0,Jacob,Paul,"After Jacob and Paul visited the park, Jacob handed a ball to",2.8360519409179688,2.9402847290039062,0.1042327880859375
+control_1,981,-0.5,35,1,1,Paul,Jacob,"After Jacob and Paul visited the park, Paul handed a ball to",4.105171203613281,4.105171203613281,0.0
+control_1,981,-0.5,36,2,0,Jacob,Paul,"When Jacob and Paul arrived at school, Jacob passed a note to",3.7275238037109375,3.7275238037109375,0.0
+control_1,981,-0.5,36,2,1,Paul,Jacob,"When Jacob and Paul arrived at school, Paul passed a note to",2.6325225830078125,2.6325225830078125,0.0
+control_1,981,-0.5,37,0,0,Jacob,Jessica,"When Jacob and Jessica went to the store, Jacob gave a bottle to",6.3707427978515625,6.521873474121094,0.15113067626953125
+control_1,981,-0.5,37,0,1,Jessica,Jacob,"When Jacob and Jessica went to the store, Jessica gave a bottle to",6.956230163574219,6.956230163574219,0.0
+control_1,981,-0.5,38,0,0,Martin,George,"When Martin and George went to the store, Martin gave a bottle to",3.940460205078125,3.99029541015625,0.049835205078125
+control_1,981,-0.5,38,0,1,George,Martin,"When Martin and George went to the store, George gave a bottle to",1.4483489990234375,1.4483489990234375,0.0
+control_1,981,-0.5,39,2,0,Charles,Paul,"When Charles and Paul arrived at school, Charles passed a note to",2.3915863037109375,2.3915863037109375,0.0
+control_1,981,-0.5,39,2,1,Paul,Charles,"When Charles and Paul arrived at school, Paul passed a note to",1.8078842163085938,1.8078842163085938,0.0
+control_1,981,-0.5,40,1,0,George,Paul,"After George and Paul visited the park, George handed a ball to",1.865997314453125,1.907379150390625,0.0413818359375
+control_1,981,-0.5,40,1,1,Paul,George,"After George and Paul visited the park, Paul handed a ball to",3.3690719604492188,3.3690719604492188,0.0
+control_1,981,-0.5,41,0,0,Jessica,Charles,"When Jessica and Charles went to the store, Jessica gave a bottle to",3.72894287109375,3.8606109619140625,0.1316680908203125
+control_1,981,-0.5,41,0,1,Charles,Jessica,"When Jessica and Charles went to the store, Charles gave a bottle to",5.170692443847656,5.170692443847656,0.0
+control_1,981,-0.5,42,1,0,Jacob,Jessica,"After Jacob and Jessica visited the park, Jacob handed a ball to",5.221412658691406,5.329948425292969,0.1085357666015625
+control_1,981,-0.5,42,1,1,Jessica,Jacob,"After Jacob and Jessica visited the park, Jessica handed a ball to",6.497932434082031,6.497932434082031,0.0
+control_1,981,-0.5,43,1,0,Charles,George,"After Charles and George visited the park, Charles handed a ball to",4.265296936035156,4.3408660888671875,0.07556915283203125
+control_1,981,-0.5,43,1,1,George,Charles,"After Charles and George visited the park, George handed a ball to",1.0114593505859375,1.0114593505859375,0.0
+control_1,981,-0.5,44,1,0,Charles,Paul,"After Charles and Paul visited the park, Charles handed a ball to",2.801788330078125,2.885162353515625,0.0833740234375
+control_1,981,-0.5,44,1,1,Paul,Charles,"After Charles and Paul visited the park, Paul handed a ball to",2.6958541870117188,2.6958541870117188,0.0
+control_1,981,-0.5,45,3,0,Charles,Paul,"At the market, Charles met Paul, and Charles gave a present to",1.5292282104492188,1.5292282104492188,0.0
+control_1,981,-0.5,45,3,1,Paul,Charles,"At the market, Charles met Paul, and Paul gave a present to",2.6810684204101562,2.6810684204101562,0.0
+control_1,981,-0.5,46,1,0,Jacob,Martin,"After Jacob and Martin visited the park, Jacob handed a ball to",3.8211593627929688,3.9477386474609375,0.12657928466796875
+control_1,981,-0.5,46,1,1,Martin,Jacob,"After Jacob and Martin visited the park, Martin handed a ball to",4.411201477050781,4.411201477050781,0.0
+control_1,981,-0.5,47,2,0,Elizabeth,Jessica,"When Elizabeth and Jessica arrived at school, Elizabeth passed a note to",2.1545639038085938,2.1545639038085938,0.0
+control_1,981,-0.5,47,2,1,Jessica,Elizabeth,"When Elizabeth and Jessica arrived at school, Jessica passed a note to",1.7727890014648438,1.7727890014648438,0.0
+control_1,981,0.5,0,0,0,Elizabeth,Paul,"When Elizabeth and Paul went to the store, Elizabeth gave a bottle to",2.7541885375976562,2.6762008666992188,-0.0779876708984375
+control_1,981,0.5,0,0,1,Paul,Elizabeth,"When Elizabeth and Paul went to the store, Paul gave a bottle to",3.7447128295898438,3.7447128295898438,0.0
+control_1,981,0.5,1,0,0,Jessica,Sophie,"When Jessica and Sophie went to the store, Jessica gave a bottle to",1.4448623657226562,1.3514938354492188,-0.0933685302734375
+control_1,981,0.5,1,0,1,Sophie,Jessica,"When Jessica and Sophie went to the store, Sophie gave a bottle to",3.9347457885742188,3.9347457885742188,0.0
+control_1,981,0.5,2,0,0,Charles,Sophie,"When Charles and Sophie went to the store, Charles gave a bottle to",5.3745269775390625,5.2873687744140625,-0.087158203125
+control_1,981,0.5,2,0,1,Sophie,Charles,"When Charles and Sophie went to the store, Sophie gave a bottle to",5.774971008300781,5.774971008300781,0.0
+control_1,981,0.5,3,1,0,Elizabeth,Jacob,"After Elizabeth and Jacob visited the park, Elizabeth handed a ball to",2.2460479736328125,2.2082061767578125,-0.037841796875
+control_1,981,0.5,3,1,1,Jacob,Elizabeth,"After Elizabeth and Jacob visited the park, Jacob handed a ball to",3.1522293090820312,3.1522293090820312,0.0
+control_1,981,0.5,4,1,0,Charles,Sophie,"After Charles and Sophie visited the park, Charles handed a ball to",4.680335998535156,4.623527526855469,-0.0568084716796875
+control_1,981,0.5,4,1,1,Sophie,Charles,"After Charles and Sophie visited the park, Sophie handed a ball to",4.9826202392578125,4.9826202392578125,0.0
+control_1,981,0.5,5,3,0,Elizabeth,Sophie,"At the market, Elizabeth met Sophie, and Elizabeth gave a present to",1.64385986328125,1.64385986328125,0.0
+control_1,981,0.5,5,3,1,Sophie,Elizabeth,"At the market, Elizabeth met Sophie, and Sophie gave a present to",1.2173233032226562,1.2173233032226562,0.0
+control_1,981,0.5,6,1,0,George,Sophie,"After George and Sophie visited the park, George handed a ball to",2.6743850708007812,2.6469802856445312,-0.02740478515625
+control_1,981,0.5,6,1,1,Sophie,George,"After George and Sophie visited the park, Sophie handed a ball to",6.134300231933594,6.134300231933594,0.0
+control_1,981,0.5,7,1,0,Jacob,Charles,"After Jacob and Charles visited the park, Jacob handed a ball to",3.0420684814453125,2.9390029907226562,-0.10306549072265625
+control_1,981,0.5,7,1,1,Charles,Jacob,"After Jacob and Charles visited the park, Charles handed a ball to",3.9489822387695312,3.9489822387695312,0.0
+control_1,981,0.5,8,2,0,Jacob,Jessica,"When Jacob and Jessica arrived at school, Jacob passed a note to",5.5489044189453125,5.5489044189453125,0.0
+control_1,981,0.5,8,2,1,Jessica,Jacob,"When Jacob and Jessica arrived at school, Jessica passed a note to",5.210899353027344,5.210899353027344,0.0
+control_1,981,0.5,9,0,0,Jessica,Paul,"When Jessica and Paul went to the store, Jessica gave a bottle to",3.0431671142578125,2.9341049194335938,-0.10906219482421875
+control_1,981,0.5,9,0,1,Paul,Jessica,"When Jessica and Paul went to the store, Paul gave a bottle to",4.177513122558594,4.177513122558594,0.0
+control_1,981,0.5,10,2,0,George,Sophie,"When George and Sophie arrived at school, George passed a note to",3.4087753295898438,3.4087753295898438,0.0
+control_1,981,0.5,10,2,1,Sophie,George,"When George and Sophie arrived at school, Sophie passed a note to",4.425575256347656,4.425575256347656,0.0
+control_1,981,0.5,11,2,0,Jacob,George,"When Jacob and George arrived at school, Jacob passed a note to",5.3670654296875,5.3670654296875,0.0
+control_1,981,0.5,11,2,1,George,Jacob,"When Jacob and George arrived at school, George passed a note to",0.44457244873046875,0.44457244873046875,0.0
+control_1,981,0.5,12,1,0,Charles,Martin,"After Charles and Martin visited the park, Charles handed a ball to",4.2510528564453125,4.1412506103515625,-0.10980224609375
+control_1,981,0.5,12,1,1,Martin,Charles,"After Charles and Martin visited the park, Martin handed a ball to",2.6390533447265625,2.6390533447265625,0.0
+control_1,981,0.5,13,1,0,Jessica,Charles,"After Jessica and Charles visited the park, Jessica handed a ball to",3.0063400268554688,2.9239425659179688,-0.0823974609375
+control_1,981,0.5,13,1,1,Charles,Jessica,"After Jessica and Charles visited the park, Charles handed a ball to",4.739646911621094,4.739646911621094,0.0
+control_1,981,0.5,14,3,0,Martin,George,"At the market, Martin met George, and Martin gave a present to",2.8321762084960938,2.8321762084960938,0.0
+control_1,981,0.5,14,3,1,George,Martin,"At the market, Martin met George, and George gave a present to",0.6671600341796875,0.6671600341796875,0.0
+control_1,981,0.5,15,3,0,Jacob,Martin,"At the market, Jacob met Martin, and Jacob gave a present to",1.4948272705078125,1.4948272705078125,0.0
+control_1,981,0.5,15,3,1,Martin,Jacob,"At the market, Jacob met Martin, and Martin gave a present to",2.23077392578125,2.23077392578125,0.0
+control_1,981,0.5,16,0,0,Jessica,George,"When Jessica and George went to the store, Jessica gave a bottle to",5.336112976074219,5.1923675537109375,-0.14374542236328125
+control_1,981,0.5,16,0,1,George,Jessica,"When Jessica and George went to the store, George gave a bottle to",3.2097702026367188,3.2097702026367188,0.0
+control_1,981,0.5,17,2,0,Charles,George,"When Charles and George arrived at school, Charles passed a note to",3.7949447631835938,3.7949447631835938,0.0
+control_1,981,0.5,17,2,1,George,Charles,"When Charles and George arrived at school, George passed a note to",0.20610809326171875,0.20610809326171875,0.0
+control_1,981,0.5,18,3,0,Jessica,Sophie,"At the market, Jessica met Sophie, and Jessica gave a present to",0.9130935668945312,0.9130935668945312,0.0
+control_1,981,0.5,18,3,1,Sophie,Jessica,"At the market, Jessica met Sophie, and Sophie gave a present to",2.6149139404296875,2.6149139404296875,0.0
+control_1,981,0.5,19,0,0,Charles,Martin,"When Charles and Martin went to the store, Charles gave a bottle to",5.283378601074219,5.117584228515625,-0.16579437255859375
+control_1,981,0.5,19,0,1,Martin,Charles,"When Charles and Martin went to the store, Martin gave a bottle to",2.5035171508789062,2.5035171508789062,0.0
+control_1,981,0.5,20,0,0,Sophie,Paul,"When Sophie and Paul went to the store, Sophie gave a bottle to",3.7779083251953125,3.6488494873046875,-0.129058837890625
+control_1,981,0.5,20,0,1,Paul,Sophie,"When Sophie and Paul went to the store, Paul gave a bottle to",3.3776016235351562,3.3776016235351562,0.0
+control_1,981,0.5,21,3,0,Elizabeth,Jacob,"At the market, Elizabeth met Jacob, and Elizabeth gave a present to",2.5308303833007812,2.5308303833007812,0.0
+control_1,981,0.5,21,3,1,Jacob,Elizabeth,"At the market, Elizabeth met Jacob, and Jacob gave a present to",3.059906005859375,3.059906005859375,0.0
+control_1,981,0.5,22,1,0,Martin,George,"After Martin and George visited the park, Martin handed a ball to",3.5582199096679688,3.5208511352539062,-0.0373687744140625
+control_1,981,0.5,22,1,1,George,Martin,"After Martin and George visited the park, George handed a ball to",1.32122802734375,1.32122802734375,0.0
+control_1,981,0.5,23,1,0,Martin,Sophie,"After Martin and Sophie visited the park, Martin handed a ball to",4.579887390136719,4.561767578125,-0.01811981201171875
+control_1,981,0.5,23,1,1,Sophie,Martin,"After Martin and Sophie visited the park, Sophie handed a ball to",4.248741149902344,4.248741149902344,0.0
+control_1,981,0.5,24,1,0,Jessica,George,"After Jessica and George visited the park, Jessica handed a ball to",4.4005126953125,4.3115081787109375,-0.0890045166015625
+control_1,981,0.5,24,1,1,George,Jessica,"After Jessica and George visited the park, George handed a ball to",3.1932601928710938,3.1932601928710938,0.0
+control_1,981,0.5,25,1,0,Martin,Paul,"After Martin and Paul visited the park, Martin handed a ball to",3.8957748413085938,3.8484878540039062,-0.0472869873046875
+control_1,981,0.5,25,1,1,Paul,Martin,"After Martin and Paul visited the park, Paul handed a ball to",2.8912353515625,2.8912353515625,0.0
+control_1,981,0.5,26,2,0,Jessica,Paul,"When Jessica and Paul arrived at school, Jessica passed a note to",2.7099075317382812,2.7099075317382812,0.0
+control_1,981,0.5,26,2,1,Paul,Jessica,"When Jessica and Paul arrived at school, Paul passed a note to",3.1995391845703125,3.1995391845703125,0.0
+control_1,981,0.5,27,1,0,Jacob,Sophie,"After Jacob and Sophie visited the park, Jacob handed a ball to",3.421966552734375,3.3606719970703125,-0.0612945556640625
+control_1,981,0.5,27,1,1,Sophie,Jacob,"After Jacob and Sophie visited the park, Sophie handed a ball to",6.159263610839844,6.159263610839844,0.0
+control_1,981,0.5,28,3,0,Jacob,Charles,"At the market, Jacob met Charles, and Jacob gave a present to",1.2776107788085938,1.2776107788085938,0.0
+control_1,981,0.5,28,3,1,Charles,Jacob,"At the market, Jacob met Charles, and Charles gave a present to",2.47491455078125,2.47491455078125,0.0
+control_1,981,0.5,29,1,0,Sophie,Paul,"After Sophie and Paul visited the park, Sophie handed a ball to",2.5472488403320312,2.4664535522460938,-0.0807952880859375
+control_1,981,0.5,29,1,1,Paul,Sophie,"After Sophie and Paul visited the park, Paul handed a ball to",3.7773361206054688,3.7773361206054688,0.0
+control_1,981,0.5,30,2,0,Jessica,Martin,"When Jessica and Martin arrived at school, Jessica passed a note to",3.883331298828125,3.883331298828125,0.0
+control_1,981,0.5,30,2,1,Martin,Jessica,"When Jessica and Martin arrived at school, Martin passed a note to",1.5830612182617188,1.5830612182617188,0.0
+control_1,981,0.5,31,0,0,George,Paul,"When George and Paul went to the store, George gave a bottle to",2.7343597412109375,2.666229248046875,-0.0681304931640625
+control_1,981,0.5,31,0,1,Paul,George,"When George and Paul went to the store, Paul gave a bottle to",3.1021270751953125,3.1021270751953125,0.0
+control_1,981,0.5,32,3,0,Jacob,George,"At the market, Jacob met George, and Jacob gave a present to",2.7904510498046875,2.7904510498046875,0.0
+control_1,981,0.5,32,3,1,George,Jacob,"At the market, Jacob met George, and George gave a present to",1.295928955078125,1.295928955078125,0.0
+control_1,981,0.5,33,1,0,Elizabeth,Jessica,"After Elizabeth and Jessica visited the park, Elizabeth handed a ball to",2.4010391235351562,2.36993408203125,-0.03110504150390625
+control_1,981,0.5,33,1,1,Jessica,Elizabeth,"After Elizabeth and Jessica visited the park, Jessica handed a ball to",2.2579116821289062,2.2579116821289062,0.0
+control_1,981,0.5,34,3,0,Elizabeth,Martin,"At the market, Elizabeth met Martin, and Elizabeth gave a present to",2.8537521362304688,2.8537521362304688,0.0
+control_1,981,0.5,34,3,1,Martin,Elizabeth,"At the market, Elizabeth met Martin, and Martin gave a present to",1.97552490234375,1.97552490234375,0.0
+control_1,981,0.5,35,1,0,Jacob,Paul,"After Jacob and Paul visited the park, Jacob handed a ball to",2.8360519409179688,2.7298736572265625,-0.10617828369140625
+control_1,981,0.5,35,1,1,Paul,Jacob,"After Jacob and Paul visited the park, Paul handed a ball to",4.105171203613281,4.105171203613281,0.0
+control_1,981,0.5,36,2,0,Jacob,Paul,"When Jacob and Paul arrived at school, Jacob passed a note to",3.7275238037109375,3.7275238037109375,0.0
+control_1,981,0.5,36,2,1,Paul,Jacob,"When Jacob and Paul arrived at school, Paul passed a note to",2.6325225830078125,2.6325225830078125,0.0
+control_1,981,0.5,37,0,0,Jacob,Jessica,"When Jacob and Jessica went to the store, Jacob gave a bottle to",6.3707427978515625,6.212028503417969,-0.15871429443359375
+control_1,981,0.5,37,0,1,Jessica,Jacob,"When Jacob and Jessica went to the store, Jessica gave a bottle to",6.956230163574219,6.956230163574219,0.0
+control_1,981,0.5,38,0,0,Martin,George,"When Martin and George went to the store, Martin gave a bottle to",3.940460205078125,3.888519287109375,-0.05194091796875
+control_1,981,0.5,38,0,1,George,Martin,"When Martin and George went to the store, George gave a bottle to",1.4483489990234375,1.4483489990234375,0.0
+control_1,981,0.5,39,2,0,Charles,Paul,"When Charles and Paul arrived at school, Charles passed a note to",2.3915863037109375,2.3915863037109375,0.0
+control_1,981,0.5,39,2,1,Paul,Charles,"When Charles and Paul arrived at school, Paul passed a note to",1.8078842163085938,1.8078842163085938,0.0
+control_1,981,0.5,40,1,0,George,Paul,"After George and Paul visited the park, George handed a ball to",1.865997314453125,1.82275390625,-0.043243408203125
+control_1,981,0.5,40,1,1,Paul,George,"After George and Paul visited the park, Paul handed a ball to",3.3690719604492188,3.3690719604492188,0.0
+control_1,981,0.5,41,0,0,Jessica,Charles,"When Jessica and Charles went to the store, Jessica gave a bottle to",3.72894287109375,3.5944290161132812,-0.13451385498046875
+control_1,981,0.5,41,0,1,Charles,Jessica,"When Jessica and Charles went to the store, Charles gave a bottle to",5.170692443847656,5.170692443847656,0.0
+control_1,981,0.5,42,1,0,Jacob,Jessica,"After Jacob and Jessica visited the park, Jacob handed a ball to",5.221412658691406,5.1085662841796875,-0.11284637451171875
+control_1,981,0.5,42,1,1,Jessica,Jacob,"After Jacob and Jessica visited the park, Jessica handed a ball to",6.497932434082031,6.497932434082031,0.0
+control_1,981,0.5,43,1,0,Charles,George,"After Charles and George visited the park, Charles handed a ball to",4.265296936035156,4.188850402832031,-0.076446533203125
+control_1,981,0.5,43,1,1,George,Charles,"After Charles and George visited the park, George handed a ball to",1.0114593505859375,1.0114593505859375,0.0
+control_1,981,0.5,44,1,0,Charles,Paul,"After Charles and Paul visited the park, Charles handed a ball to",2.801788330078125,2.7164154052734375,-0.0853729248046875
+control_1,981,0.5,44,1,1,Paul,Charles,"After Charles and Paul visited the park, Paul handed a ball to",2.6958541870117188,2.6958541870117188,0.0
+control_1,981,0.5,45,3,0,Charles,Paul,"At the market, Charles met Paul, and Charles gave a present to",1.5292282104492188,1.5292282104492188,0.0
+control_1,981,0.5,45,3,1,Paul,Charles,"At the market, Charles met Paul, and Paul gave a present to",2.6810684204101562,2.6810684204101562,0.0
+control_1,981,0.5,46,1,0,Jacob,Martin,"After Jacob and Martin visited the park, Jacob handed a ball to",3.8211593627929688,3.6942901611328125,-0.12686920166015625
+control_1,981,0.5,46,1,1,Martin,Jacob,"After Jacob and Martin visited the park, Martin handed a ball to",4.411201477050781,4.411201477050781,0.0
+control_1,981,0.5,47,2,0,Elizabeth,Jessica,"When Elizabeth and Jessica arrived at school, Elizabeth passed a note to",2.1545639038085938,2.1545639038085938,0.0
+control_1,981,0.5,47,2,1,Jessica,Elizabeth,"When Elizabeth and Jessica arrived at school, Jessica passed a note to",1.7727890014648438,1.7727890014648438,0.0
+control_1,981,1.0,0,0,0,Elizabeth,Paul,"When Elizabeth and Paul went to the store, Elizabeth gave a bottle to",2.7541885375976562,2.5973587036132812,-0.156829833984375
+control_1,981,1.0,0,0,1,Paul,Elizabeth,"When Elizabeth and Paul went to the store, Paul gave a bottle to",3.7447128295898438,3.7447128295898438,0.0
+control_1,981,1.0,1,0,0,Jessica,Sophie,"When Jessica and Sophie went to the store, Jessica gave a bottle to",1.4448623657226562,1.2571792602539062,-0.18768310546875
+control_1,981,1.0,1,0,1,Sophie,Jessica,"When Jessica and Sophie went to the store, Sophie gave a bottle to",3.9347457885742188,3.9347457885742188,0.0
+control_1,981,1.0,2,0,0,Charles,Sophie,"When Charles and Sophie went to the store, Charles gave a bottle to",5.3745269775390625,5.1929168701171875,-0.181610107421875
+control_1,981,1.0,2,0,1,Sophie,Charles,"When Charles and Sophie went to the store, Sophie gave a bottle to",5.774971008300781,5.774971008300781,0.0
+control_1,981,1.0,3,1,0,Elizabeth,Jacob,"After Elizabeth and Jacob visited the park, Elizabeth handed a ball to",2.2460479736328125,2.1703720092773438,-0.07567596435546875
+control_1,981,1.0,3,1,1,Jacob,Elizabeth,"After Elizabeth and Jacob visited the park, Jacob handed a ball to",3.1522293090820312,3.1522293090820312,0.0
+control_1,981,1.0,4,1,0,Charles,Sophie,"After Charles and Sophie visited the park, Charles handed a ball to",4.680335998535156,4.562225341796875,-0.11811065673828125
+control_1,981,1.0,4,1,1,Sophie,Charles,"After Charles and Sophie visited the park, Sophie handed a ball to",4.9826202392578125,4.9826202392578125,0.0
+control_1,981,1.0,5,3,0,Elizabeth,Sophie,"At the market, Elizabeth met Sophie, and Elizabeth gave a present to",1.64385986328125,1.64385986328125,0.0
+control_1,981,1.0,5,3,1,Sophie,Elizabeth,"At the market, Elizabeth met Sophie, and Sophie gave a present to",1.2173233032226562,1.2173233032226562,0.0
+control_1,981,1.0,6,1,0,George,Sophie,"After George and Sophie visited the park, George handed a ball to",2.6743850708007812,2.6162796020507812,-0.05810546875
+control_1,981,1.0,6,1,1,Sophie,George,"After George and Sophie visited the park, Sophie handed a ball to",6.134300231933594,6.134300231933594,0.0
+control_1,981,1.0,7,1,0,Jacob,Charles,"After Jacob and Charles visited the park, Jacob handed a ball to",3.0420684814453125,2.83538818359375,-0.2066802978515625
+control_1,981,1.0,7,1,1,Charles,Jacob,"After Jacob and Charles visited the park, Charles handed a ball to",3.9489822387695312,3.9489822387695312,0.0
+control_1,981,1.0,8,2,0,Jacob,Jessica,"When Jacob and Jessica arrived at school, Jacob passed a note to",5.5489044189453125,5.5489044189453125,0.0
+control_1,981,1.0,8,2,1,Jessica,Jacob,"When Jacob and Jessica arrived at school, Jessica passed a note to",5.210899353027344,5.210899353027344,0.0
+control_1,981,1.0,9,0,0,Jessica,Paul,"When Jessica and Paul went to the store, Jessica gave a bottle to",3.0431671142578125,2.8223876953125,-0.2207794189453125
+control_1,981,1.0,9,0,1,Paul,Jessica,"When Jessica and Paul went to the store, Paul gave a bottle to",4.177513122558594,4.177513122558594,0.0
+control_1,981,1.0,10,2,0,George,Sophie,"When George and Sophie arrived at school, George passed a note to",3.4087753295898438,3.4087753295898438,0.0
+control_1,981,1.0,10,2,1,Sophie,George,"When George and Sophie arrived at school, Sophie passed a note to",4.425575256347656,4.425575256347656,0.0
+control_1,981,1.0,11,2,0,Jacob,George,"When Jacob and George arrived at school, Jacob passed a note to",5.3670654296875,5.3670654296875,0.0
+control_1,981,1.0,11,2,1,George,Jacob,"When Jacob and George arrived at school, George passed a note to",0.44457244873046875,0.44457244873046875,0.0
+control_1,981,1.0,12,1,0,Charles,Martin,"After Charles and Martin visited the park, Charles handed a ball to",4.2510528564453125,4.030021667480469,-0.22103118896484375
+control_1,981,1.0,12,1,1,Martin,Charles,"After Charles and Martin visited the park, Martin handed a ball to",2.6390533447265625,2.6390533447265625,0.0
+control_1,981,1.0,13,1,0,Jessica,Charles,"After Jessica and Charles visited the park, Jessica handed a ball to",3.0063400268554688,2.8407974243164062,-0.1655426025390625
+control_1,981,1.0,13,1,1,Charles,Jessica,"After Jessica and Charles visited the park, Charles handed a ball to",4.739646911621094,4.739646911621094,0.0
+control_1,981,1.0,14,3,0,Martin,George,"At the market, Martin met George, and Martin gave a present to",2.8321762084960938,2.8321762084960938,0.0
+control_1,981,1.0,14,3,1,George,Martin,"At the market, Martin met George, and George gave a present to",0.6671600341796875,0.6671600341796875,0.0
+control_1,981,1.0,15,3,0,Jacob,Martin,"At the market, Jacob met Martin, and Jacob gave a present to",1.4948272705078125,1.4948272705078125,0.0
+control_1,981,1.0,15,3,1,Martin,Jacob,"At the market, Jacob met Martin, and Martin gave a present to",2.23077392578125,2.23077392578125,0.0
+control_1,981,1.0,16,0,0,Jessica,George,"When Jessica and George went to the store, Jessica gave a bottle to",5.336112976074219,5.047393798828125,-0.28871917724609375
+control_1,981,1.0,16,0,1,George,Jessica,"When Jessica and George went to the store, George gave a bottle to",3.2097702026367188,3.2097702026367188,0.0
+control_1,981,1.0,17,2,0,Charles,George,"When Charles and George arrived at school, Charles passed a note to",3.7949447631835938,3.7949447631835938,0.0
+control_1,981,1.0,17,2,1,George,Charles,"When Charles and George arrived at school, George passed a note to",0.20610809326171875,0.20610809326171875,0.0
+control_1,981,1.0,18,3,0,Jessica,Sophie,"At the market, Jessica met Sophie, and Jessica gave a present to",0.9130935668945312,0.9130935668945312,0.0
+control_1,981,1.0,18,3,1,Sophie,Jessica,"At the market, Jessica met Sophie, and Sophie gave a present to",2.6149139404296875,2.6149139404296875,0.0
+control_1,981,1.0,19,0,0,Charles,Martin,"When Charles and Martin went to the store, Charles gave a bottle to",5.283378601074219,4.948707580566406,-0.3346710205078125
+control_1,981,1.0,19,0,1,Martin,Charles,"When Charles and Martin went to the store, Martin gave a bottle to",2.5035171508789062,2.5035171508789062,0.0
+control_1,981,1.0,20,0,0,Sophie,Paul,"When Sophie and Paul went to the store, Sophie gave a bottle to",3.7779083251953125,3.5190658569335938,-0.25884246826171875
+control_1,981,1.0,20,0,1,Paul,Sophie,"When Sophie and Paul went to the store, Paul gave a bottle to",3.3776016235351562,3.3776016235351562,0.0
+control_1,981,1.0,21,3,0,Elizabeth,Jacob,"At the market, Elizabeth met Jacob, and Elizabeth gave a present to",2.5308303833007812,2.5308303833007812,0.0
+control_1,981,1.0,21,3,1,Jacob,Elizabeth,"At the market, Elizabeth met Jacob, and Jacob gave a present to",3.059906005859375,3.059906005859375,0.0
+control_1,981,1.0,22,1,0,Martin,George,"After Martin and George visited the park, Martin handed a ball to",3.5582199096679688,3.4822540283203125,-0.07596588134765625
+control_1,981,1.0,22,1,1,George,Martin,"After Martin and George visited the park, George handed a ball to",1.32122802734375,1.32122802734375,0.0
+control_1,981,1.0,23,1,0,Martin,Sophie,"After Martin and Sophie visited the park, Martin handed a ball to",4.579887390136719,4.540260314941406,-0.0396270751953125
+control_1,981,1.0,23,1,1,Sophie,Martin,"After Martin and Sophie visited the park, Sophie handed a ball to",4.248741149902344,4.248741149902344,0.0
+control_1,981,1.0,24,1,0,Jessica,George,"After Jessica and George visited the park, Jessica handed a ball to",4.4005126953125,4.2216033935546875,-0.1789093017578125
+control_1,981,1.0,24,1,1,George,Jessica,"After Jessica and George visited the park, George handed a ball to",3.1932601928710938,3.1932601928710938,0.0
+control_1,981,1.0,25,1,0,Martin,Paul,"After Martin and Paul visited the park, Martin handed a ball to",3.8957748413085938,3.7987213134765625,-0.09705352783203125
+control_1,981,1.0,25,1,1,Paul,Martin,"After Martin and Paul visited the park, Paul handed a ball to",2.8912353515625,2.8912353515625,0.0
+control_1,981,1.0,26,2,0,Jessica,Paul,"When Jessica and Paul arrived at school, Jessica passed a note to",2.7099075317382812,2.7099075317382812,0.0
+control_1,981,1.0,26,2,1,Paul,Jessica,"When Jessica and Paul arrived at school, Paul passed a note to",3.1995391845703125,3.1995391845703125,0.0
+control_1,981,1.0,27,1,0,Jacob,Sophie,"After Jacob and Sophie visited the park, Jacob handed a ball to",3.421966552734375,3.2965469360351562,-0.12541961669921875
+control_1,981,1.0,27,1,1,Sophie,Jacob,"After Jacob and Sophie visited the park, Sophie handed a ball to",6.159263610839844,6.159263610839844,0.0
+control_1,981,1.0,28,3,0,Jacob,Charles,"At the market, Jacob met Charles, and Jacob gave a present to",1.2776107788085938,1.2776107788085938,0.0
+control_1,981,1.0,28,3,1,Charles,Jacob,"At the market, Jacob met Charles, and Charles gave a present to",2.47491455078125,2.47491455078125,0.0
+control_1,981,1.0,29,1,0,Sophie,Paul,"After Sophie and Paul visited the park, Sophie handed a ball to",2.5472488403320312,2.3857803344726562,-0.161468505859375
+control_1,981,1.0,29,1,1,Paul,Sophie,"After Sophie and Paul visited the park, Paul handed a ball to",3.7773361206054688,3.7773361206054688,0.0
+control_1,981,1.0,30,2,0,Jessica,Martin,"When Jessica and Martin arrived at school, Jessica passed a note to",3.883331298828125,3.883331298828125,0.0
+control_1,981,1.0,30,2,1,Martin,Jessica,"When Jessica and Martin arrived at school, Martin passed a note to",1.5830612182617188,1.5830612182617188,0.0
+control_1,981,1.0,31,0,0,George,Paul,"When George and Paul went to the store, George gave a bottle to",2.7343597412109375,2.593841552734375,-0.1405181884765625
+control_1,981,1.0,31,0,1,Paul,George,"When George and Paul went to the store, Paul gave a bottle to",3.1021270751953125,3.1021270751953125,0.0
+control_1,981,1.0,32,3,0,Jacob,George,"At the market, Jacob met George, and Jacob gave a present to",2.7904510498046875,2.7904510498046875,0.0
+control_1,981,1.0,32,3,1,George,Jacob,"At the market, Jacob met George, and George gave a present to",1.295928955078125,1.295928955078125,0.0
+control_1,981,1.0,33,1,0,Elizabeth,Jessica,"After Elizabeth and Jessica visited the park, Elizabeth handed a ball to",2.4010391235351562,2.338958740234375,-0.06208038330078125
+control_1,981,1.0,33,1,1,Jessica,Elizabeth,"After Elizabeth and Jessica visited the park, Jessica handed a ball to",2.2579116821289062,2.2579116821289062,0.0
+control_1,981,1.0,34,3,0,Elizabeth,Martin,"At the market, Elizabeth met Martin, and Elizabeth gave a present to",2.8537521362304688,2.8537521362304688,0.0
+control_1,981,1.0,34,3,1,Martin,Elizabeth,"At the market, Elizabeth met Martin, and Martin gave a present to",1.97552490234375,1.97552490234375,0.0
+control_1,981,1.0,35,1,0,Jacob,Paul,"After Jacob and Paul visited the park, Jacob handed a ball to",2.8360519409179688,2.6214370727539062,-0.2146148681640625
+control_1,981,1.0,35,1,1,Paul,Jacob,"After Jacob and Paul visited the park, Paul handed a ball to",4.105171203613281,4.105171203613281,0.0
+control_1,981,1.0,36,2,0,Jacob,Paul,"When Jacob and Paul arrived at school, Jacob passed a note to",3.7275238037109375,3.7275238037109375,0.0
+control_1,981,1.0,36,2,1,Paul,Jacob,"When Jacob and Paul arrived at school, Paul passed a note to",2.6325225830078125,2.6325225830078125,0.0
+control_1,981,1.0,37,0,0,Jacob,Jessica,"When Jacob and Jessica went to the store, Jacob gave a bottle to",6.3707427978515625,6.046226501464844,-0.32451629638671875
+control_1,981,1.0,37,0,1,Jessica,Jacob,"When Jacob and Jessica went to the store, Jessica gave a bottle to",6.956230163574219,6.956230163574219,0.0
+control_1,981,1.0,38,0,0,Martin,George,"When Martin and George went to the store, Martin gave a bottle to",3.940460205078125,3.834564208984375,-0.10589599609375
+control_1,981,1.0,38,0,1,George,Martin,"When Martin and George went to the store, George gave a bottle to",1.4483489990234375,1.4483489990234375,0.0
+control_1,981,1.0,39,2,0,Charles,Paul,"When Charles and Paul arrived at school, Charles passed a note to",2.3915863037109375,2.3915863037109375,0.0
+control_1,981,1.0,39,2,1,Paul,Charles,"When Charles and Paul arrived at school, Paul passed a note to",1.8078842163085938,1.8078842163085938,0.0
+control_1,981,1.0,40,1,0,George,Paul,"After George and Paul visited the park, George handed a ball to",1.865997314453125,1.777496337890625,-0.0885009765625
+control_1,981,1.0,40,1,1,Paul,George,"After George and Paul visited the park, Paul handed a ball to",3.3690719604492188,3.3690719604492188,0.0
+control_1,981,1.0,41,0,0,Jessica,Charles,"When Jessica and Charles went to the store, Jessica gave a bottle to",3.72894287109375,3.4570541381835938,-0.27188873291015625
+control_1,981,1.0,41,0,1,Charles,Jessica,"When Jessica and Charles went to the store, Charles gave a bottle to",5.170692443847656,5.170692443847656,0.0
+control_1,981,1.0,42,1,0,Jacob,Jessica,"After Jacob and Jessica visited the park, Jacob handed a ball to",5.221412658691406,4.991584777832031,-0.229827880859375
+control_1,981,1.0,42,1,1,Jessica,Jacob,"After Jacob and Jessica visited the park, Jessica handed a ball to",6.497932434082031,6.497932434082031,0.0
+control_1,981,1.0,43,1,0,Charles,George,"After Charles and George visited the park, Charles handed a ball to",4.265296936035156,4.111640930175781,-0.153656005859375
+control_1,981,1.0,43,1,1,George,Charles,"After Charles and George visited the park, George handed a ball to",1.0114593505859375,1.0114593505859375,0.0
+control_1,981,1.0,44,1,0,Charles,Paul,"After Charles and Paul visited the park, Charles handed a ball to",2.801788330078125,2.6291046142578125,-0.1726837158203125
+control_1,981,1.0,44,1,1,Paul,Charles,"After Charles and Paul visited the park, Paul handed a ball to",2.6958541870117188,2.6958541870117188,0.0
+control_1,981,1.0,45,3,0,Charles,Paul,"At the market, Charles met Paul, and Charles gave a present to",1.5292282104492188,1.5292282104492188,0.0
+control_1,981,1.0,45,3,1,Paul,Charles,"At the market, Charles met Paul, and Paul gave a present to",2.6810684204101562,2.6810684204101562,0.0
+control_1,981,1.0,46,1,0,Jacob,Martin,"After Jacob and Martin visited the park, Jacob handed a ball to",3.8211593627929688,3.5673370361328125,-0.25382232666015625
+control_1,981,1.0,46,1,1,Martin,Jacob,"After Jacob and Martin visited the park, Martin handed a ball to",4.411201477050781,4.411201477050781,0.0
+control_1,981,1.0,47,2,0,Elizabeth,Jessica,"When Elizabeth and Jessica arrived at school, Elizabeth passed a note to",2.1545639038085938,2.1545639038085938,0.0
+control_1,981,1.0,47,2,1,Jessica,Elizabeth,"When Elizabeth and Jessica arrived at school, Jessica passed a note to",1.7727890014648438,1.7727890014648438,0.0
