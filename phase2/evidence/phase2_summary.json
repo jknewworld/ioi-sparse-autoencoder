@@ -1,0 +1,366 @@
+{
+  "status": "completed",
+  "model": "openai-community/gpt2",
+  "activation_site": "layer 8 block output",
+  "selection": "Feature 260 and control IDs fixed from Phase 1; no reselection",
+  "dataset": "Paired role swaps, held-out test-name pool, original training templates",
+  "pairs": 48,
+  "prompts": 96,
+  "seed": 1234,
+  "baseline_pairwise_accuracy": 1,
+  "baseline_mean_gap": 3.277029832204183,
+  "feature_id": 260,
+  "counterfactual": {
+    "order_auc": 0.8125,
+    "signed_pair_difference": {
+      "mean": 2.2989141394694648,
+      "mean_abs": 2.2989141394694648,
+      "rms": 2.989552134663315,
+      "fraction_nonzero": 0.625
+    },
+    "fraction_pairs_in_expected_direction": 0.625,
+    "feature_active_fraction": 0.3125
+  },
+  "interventions": {
+    "selected": {
+      "feature_id": 260,
+      "steering": {
+        "-0.5": {
+          "mean": -0.05171394348144531,
+          "mean_abs": 0.05171394348144531,
+          "rms": 0.10057298456101119,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.225315888722738
+        },
+        "0.5": {
+          "mean": 0.04969938596089681,
+          "mean_abs": 0.04969938596089681,
+          "rms": 0.09631059537957364,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3267292181650796
+        },
+        "-1.0": {
+          "mean": -0.10537505149841309,
+          "mean_abs": 0.10537505149841309,
+          "rms": 0.20531098891475194,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.17165478070577
+        },
+        "1.0": {
+          "mean": 0.09731276830037434,
+          "mean_abs": 0.09731276830037434,
+          "rms": 0.18827149073958915,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.374342600504557
+        }
+      }
+    },
+    "control_0": {
+      "feature_id": 264,
+      "steering": {
+        "-0.5": {
+          "mean": 0.001371622085571289,
+          "mean_abs": 0.007955153783162435,
+          "rms": 0.017932650686807897,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2784014542897544
+        },
+        "0.5": {
+          "mean": -0.0018430550893147786,
+          "mean_abs": 0.007828315099080404,
+          "rms": 0.017807127117397972,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.275186777114868
+        },
+        "-1.0": {
+          "mean": 0.00229493776957194,
+          "mean_abs": 0.01604946454366048,
+          "rms": 0.03607977493488412,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.279324769973755
+        },
+        "1.0": {
+          "mean": -0.0042035579681396484,
+          "mean_abs": 0.015517473220825195,
+          "rms": 0.035582857911080776,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2728262742360434
+        }
+      }
+    },
+    "control_1": {
+      "feature_id": 981,
+      "steering": {
+        "-0.5": {
+          "mean": 0.02589901288350423,
+          "mean_abs": 0.02589901288350423,
+          "rms": 0.05113292897842518,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.302928845087687
+        },
+        "0.5": {
+          "mean": -0.026590903600056965,
+          "mean_abs": 0.026590903600056965,
+          "rms": 0.052325261821063014,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.250438928604126
+        },
+        "-1.0": {
+          "mean": 0.051056623458862305,
+          "mean_abs": 0.051056623458862305,
+          "rms": 0.10097830040490453,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3280864556630454
+        },
+        "1.0": {
+          "mean": -0.053861776987711586,
+          "mean_abs": 0.053861776987711586,
+          "rms": 0.10582638858993569,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.223168055216471
+        }
+      }
+    },
+    "control_2": {
+      "feature_id": 810,
+      "steering": {
+        "-0.5": {
+          "mean": -0.0018683274586995442,
+          "mean_abs": 0.005312681198120117,
+          "rms": 0.011884926994746024,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2751615047454834
+        },
+        "0.5": {
+          "mean": 0.0011925697326660156,
+          "mean_abs": 0.005201657613118489,
+          "rms": 0.011643495821571391,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.278222401936849
+        },
+        "-1.0": {
+          "mean": -0.004405657450358073,
+          "mean_abs": 0.010787645975748697,
+          "rms": 0.024192874092932384,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2726241747538247
+        },
+        "1.0": {
+          "mean": 0.00167083740234375,
+          "mean_abs": 0.010472774505615234,
+          "rms": 0.02321545516696958,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.278700669606527
+        }
+      }
+    },
+    "control_3": {
+      "feature_id": 1116,
+      "steering": {
+        "-0.5": {
+          "mean": -0.020010948181152344,
+          "mean_abs": 0.020010948181152344,
+          "rms": 0.03876929012381445,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2570188840230307
+        },
+        "0.5": {
+          "mean": 0.019283056259155273,
+          "mean_abs": 0.019283056259155273,
+          "rms": 0.03760816894446109,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2963128884633384
+        },
+        "-1.0": {
+          "mean": -0.040696024894714355,
+          "mean_abs": 0.040696024894714355,
+          "rms": 0.0786309816333842,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2363338073094687
+        },
+        "1.0": {
+          "mean": 0.037800868352254234,
+          "mean_abs": 0.037800868352254234,
+          "rms": 0.0740282091090504,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.314830700556437
+        }
+      }
+    },
+    "control_4": {
+      "feature_id": 124,
+      "steering": {
+        "-0.5": {
+          "mean": 0.03646532694498698,
+          "mean_abs": 0.03646532694498698,
+          "rms": 0.06786073913663203,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.31349515914917
+        },
+        "0.5": {
+          "mean": -0.03714911142985026,
+          "mean_abs": 0.03714911142985026,
+          "rms": 0.06917489884433273,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2398807207743325
+        },
+        "-1.0": {
+          "mean": 0.07215340932210286,
+          "mean_abs": 0.07215340932210286,
+          "rms": 0.13423863871365266,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3491832415262857
+        },
+        "1.0": {
+          "mean": -0.07491056124369304,
+          "mean_abs": 0.07491056124369304,
+          "rms": 0.13954515807464865,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2021192709604898
+        }
+      }
+    },
+    "control_5": {
+      "feature_id": 553,
+      "steering": {
+        "-0.5": {
+          "mean": 0.021394968032836914,
+          "mean_abs": 0.021394968032836914,
+          "rms": 0.044282158659542735,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.29842480023702
+        },
+        "0.5": {
+          "mean": -0.022171497344970703,
+          "mean_abs": 0.022171497344970703,
+          "rms": 0.04594523908467268,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2548583348592124
+        },
+        "-1.0": {
+          "mean": 0.04198161760965983,
+          "mean_abs": 0.04198161760965983,
+          "rms": 0.0868595667875233,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3190114498138428
+        },
+        "1.0": {
+          "mean": -0.045078794161478676,
+          "mean_abs": 0.045078794161478676,
+          "rms": 0.0934691035019305,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.231951038042704
+        }
+      }
+    },
+    "control_6": {
+      "feature_id": 1394,
+      "steering": {
+        "-0.5": {
+          "mean": -0.019587278366088867,
+          "mean_abs": 0.019777218500773113,
+          "rms": 0.047954515306620836,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2574425538380942
+        },
+        "0.5": {
+          "mean": 0.01883856455485026,
+          "mean_abs": 0.019212722778320312,
+          "rms": 0.04658863321125803,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.295868396759033
+        },
+        "-1.0": {
+          "mean": -0.03987526893615723,
+          "mean_abs": 0.04010399182637533,
+          "rms": 0.09718835698747098,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.237154563268026
+        },
+        "1.0": {
+          "mean": 0.03688605626424154,
+          "mean_abs": 0.03789250055948893,
+          "rms": 0.09172456520796282,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3139158884684243
+        }
+      }
+    },
+    "control_7": {
+      "feature_id": 44,
+      "steering": {
+        "-0.5": {
+          "mean": -0.027016560236612957,
+          "mean_abs": 0.027016560236612957,
+          "rms": 0.05043218470754876,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.25001327196757
+        },
+        "0.5": {
+          "mean": 0.02552183469136556,
+          "mean_abs": 0.02552183469136556,
+          "rms": 0.04754904510213199,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.3025516668955484
+        },
+        "-1.0": {
+          "mean": -0.05549168586730957,
+          "mean_abs": 0.05549168586730957,
+          "rms": 0.10371149221376874,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.2215381463368735
+        },
+        "1.0": {
+          "mean": 0.04952200253804525,
+          "mean_abs": 0.04952200253804525,
+          "rms": 0.09222168336239385,
+          "fraction_nonzero": 0.3125,
+          "pairwise_accuracy": 1,
+          "mean_gap_after": 3.326551834742228
+        }
+      }
+    }
+  },
+  "limitations": [
+    "Role swaps change the repeated name and therefore several input tokens.",
+    "Paired tests assess role sensitivity, not semantic specificity by themselves.",
+    "The SAE was trained with Phase 1 data and is not retrained here.",
+    "Controls use the selected feature's per-prompt amplitude to match edit size.",
+    "The result uses one SAE training seed and one model layer."
+  ]
+}
