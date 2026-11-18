@@ -1,0 +1,81 @@
+prompt,correct_io,subject,io_first,original_logit_gap,selected_feature_ablation_gap_change
+"Yesterday Elizabeth and Charles went hiking. Later, Charles offered a sandwich to",Elizabeth,Charles,1,3.90077,0.0
+"Yesterday Jacob and Jessica went hiking. Later, Jacob offered a sandwich to",Jessica,Jacob,0,5.4793,-0.53832
+"Yesterday Sophie and Jessica went hiking. Later, Jessica offered a sandwich to",Sophie,Jessica,1,2.09536,0.0
+"During the trip, Martin spoke with Sophie, and Sophie passed the camera to",Martin,Sophie,1,2.32542,0.0
+"Yesterday George and Sophie went hiking. Later, George offered a sandwich to",Sophie,George,0,3.38093,-0.24001
+"Yesterday Jessica and Martin went hiking. Later, Jessica offered a sandwich to",Martin,Jessica,0,1.98125,-0.20508
+"Yesterday Jacob and Paul went hiking. Later, Paul offered a sandwich to",Jacob,Paul,1,4.0879,0.0
+"Yesterday George and Elizabeth went hiking. Later, George offered a sandwich to",Elizabeth,George,0,3.11859,-0.21811
+"Yesterday Martin and Sophie went hiking. Later, Sophie offered a sandwich to",Martin,Sophie,1,4.57027,0.0
+"Yesterday Martin and Jacob went hiking. Later, Martin offered a sandwich to",Jacob,Martin,0,3.37308,-0.29791
+"Yesterday Jessica and Jacob went hiking. Later, Jacob offered a sandwich to",Jessica,Jacob,1,4.20192,0.0
+"During the trip, Elizabeth spoke with Charles, and Elizabeth passed the camera to",Charles,Elizabeth,0,1.55622,0.0
+"Yesterday Elizabeth and Paul went hiking. Later, Elizabeth offered a sandwich to",Paul,Elizabeth,0,3.23189,-0.16266
+"During the trip, Paul spoke with Martin, and Martin passed the camera to",Paul,Martin,1,1.99556,0.0
+"During the trip, Paul spoke with Jacob, and Jacob passed the camera to",Paul,Jacob,1,1.94124,0.0
+"During the trip, Jacob spoke with George, and Jacob passed the camera to",George,Jacob,0,2.4231,0.0
+"During the trip, Sophie spoke with George, and Sophie passed the camera to",George,Sophie,0,3.52714,0.0
+"Yesterday Sophie and Martin went hiking. Later, Sophie offered a sandwich to",Martin,Sophie,0,3.42236,-0.17239
+"During the trip, George spoke with Jacob, and Jacob passed the camera to",George,Jacob,1,2.14651,0.0
+"Yesterday Martin and Charles went hiking. Later, Charles offered a sandwich to",Martin,Charles,1,4.15833,0.0
+"During the trip, Elizabeth spoke with George, and Elizabeth passed the camera to",George,Elizabeth,0,2.69193,0.0
+"During the trip, Jessica spoke with Paul, and Paul passed the camera to",Jessica,Paul,1,1.86508,0.0
+"Yesterday Jessica and Elizabeth went hiking. Later, Jessica offered a sandwich to",Elizabeth,Jessica,0,0.54126,-0.1105
+"Yesterday Martin and Elizabeth went hiking. Later, Martin offered a sandwich to",Elizabeth,Martin,0,4.04617,-0.3163
+"During the trip, Charles spoke with Elizabeth, and Elizabeth passed the camera to",Charles,Elizabeth,1,1.84193,0.0
+"During the trip, Charles spoke with Martin, and Charles passed the camera to",Martin,Charles,0,1.93674,0.0
+"During the trip, Elizabeth spoke with Martin, and Elizabeth passed the camera to",Martin,Elizabeth,0,2.31709,0.0
+"During the trip, Elizabeth spoke with George, and George passed the camera to",Elizabeth,George,1,1.65672,0.0
+"Yesterday Sophie and Jacob went hiking. Later, Sophie offered a sandwich to",Jacob,Sophie,0,3.82979,-0.10041
+"During the trip, Jacob spoke with Jessica, and Jacob passed the camera to",Jessica,Jacob,0,2.91387,0.0
+"Yesterday Paul and Jessica went hiking. Later, Paul offered a sandwich to",Jessica,Paul,0,4.18812,-0.31298
+"Yesterday Charles and Martin went hiking. Later, Martin offered a sandwich to",Charles,Martin,1,2.45149,0.0
+"During the trip, Jacob spoke with Paul, and Jacob passed the camera to",Paul,Jacob,0,1.63685,0.0
+"During the trip, Elizabeth spoke with Sophie, and Sophie passed the camera to",Elizabeth,Sophie,1,1.24097,0.0
+"Yesterday George and Jessica went hiking. Later, George offered a sandwich to",Jessica,George,0,4.33018,-0.48119
+"During the trip, Jessica spoke with Martin, and Martin passed the camera to",Jessica,Martin,1,1.40126,0.0
+"During the trip, Jacob spoke with Martin, and Jacob passed the camera to",Martin,Jacob,0,1.53653,0.0
+"Yesterday Elizabeth and Martin went hiking. Later, Elizabeth offered a sandwich to",Martin,Elizabeth,0,3.69084,-0.22147
+"During the trip, Jessica spoke with Sophie, and Jessica passed the camera to",Sophie,Jessica,0,0.81236,0.0
+"During the trip, Charles spoke with George, and Charles passed the camera to",George,Charles,0,2.26994,0.0
+"During the trip, Charles spoke with Jessica, and Jessica passed the camera to",Charles,Jessica,1,3.50343,0.0
+"Yesterday Sophie and Jacob went hiking. Later, Jacob offered a sandwich to",Sophie,Jacob,1,3.65208,0.0
+"During the trip, Jacob spoke with George, and George passed the camera to",Jacob,George,1,0.58594,0.0
+"Yesterday Elizabeth and Jessica went hiking. Later, Jessica offered a sandwich to",Elizabeth,Jessica,1,1.06533,0.0
+"During the trip, Jessica spoke with Elizabeth, and Jessica passed the camera to",Elizabeth,Jessica,0,1.35733,0.0
+"During the trip, Charles spoke with Martin, and Martin passed the camera to",Charles,Martin,1,0.62154,0.0
+"Yesterday Sophie and George went hiking. Later, George offered a sandwich to",Sophie,George,1,3.53452,0.0
+"Yesterday Jacob and George went hiking. Later, George offered a sandwich to",Jacob,George,1,2.57257,0.0
+"During the trip, Elizabeth spoke with Charles, and Charles passed the camera to",Elizabeth,Charles,1,3.02238,0.0
+"During the trip, Jacob spoke with Charles, and Charles passed the camera to",Jacob,Charles,1,1.90255,0.0
+"During the trip, Jacob spoke with Jessica, and Jessica passed the camera to",Jacob,Jessica,1,3.46443,0.0
+"During the trip, Paul spoke with Jessica, and Jessica passed the camera to",Paul,Jessica,1,4.54957,0.0
+"Yesterday George and Sophie went hiking. Later, Sophie offered a sandwich to",George,Sophie,1,5.73755,0.0
+"During the trip, Sophie spoke with Jacob, and Sophie passed the camera to",Jacob,Sophie,0,2.31523,0.0
+"During the trip, Charles spoke with Paul, and Paul passed the camera to",Charles,Paul,1,0.81756,0.0
+"Yesterday Sophie and Charles went hiking. Later, Charles offered a sandwich to",Sophie,Charles,1,4.36978,0.0
+"Yesterday Jessica and Charles went hiking. Later, Charles offered a sandwich to",Jessica,Charles,1,5.20789,0.0
+"Yesterday Paul and Sophie went hiking. Later, Paul offered a sandwich to",Sophie,Paul,0,4.48178,-0.25268
+"Yesterday Paul and Jacob went hiking. Later, Paul offered a sandwich to",Jacob,Paul,0,3.67695,-0.1804
+"Yesterday Jessica and Paul went hiking. Later, Paul offered a sandwich to",Jessica,Paul,1,4.64557,0.0
+"Yesterday Jessica and Sophie went hiking. Later, Jessica offered a sandwich to",Sophie,Jessica,0,1.68253,-0.17148
+"Yesterday Elizabeth and George went hiking. Later, Elizabeth offered a sandwich to",George,Elizabeth,0,3.7754,0.0
+"Yesterday Paul and Jacob went hiking. Later, Jacob offered a sandwich to",Paul,Jacob,1,2.83511,0.0
+"During the trip, George spoke with Jessica, and Jessica passed the camera to",George,Jessica,1,4.16068,0.0
+"Yesterday Elizabeth and Paul went hiking. Later, Paul offered a sandwich to",Elizabeth,Paul,1,3.70265,0.0
+"During the trip, Jessica spoke with George, and Jessica passed the camera to",George,Jessica,0,3.38493,0.0
+"During the trip, Jacob spoke with Sophie, and Jacob passed the camera to",Sophie,Jacob,0,2.32431,0.0
+"Yesterday Elizabeth and Sophie went hiking. Later, Sophie offered a sandwich to",Elizabeth,Sophie,1,1.19386,0.0
+"During the trip, Paul spoke with Sophie, and Paul passed the camera to",Sophie,Paul,0,2.45399,0.0
+"During the trip, Elizabeth spoke with Sophie, and Elizabeth passed the camera to",Sophie,Elizabeth,0,1.403,0.0
+"During the trip, Paul spoke with Charles, and Paul passed the camera to",Charles,Paul,0,1.03576,0.0
+"During the trip, Sophie spoke with George, and George passed the camera to",Sophie,George,1,0.76974,0.0
+"Yesterday Elizabeth and Sophie went hiking. Later, Elizabeth offered a sandwich to",Sophie,Elizabeth,0,2.60871,0.0
+"Yesterday Charles and George went hiking. Later, George offered a sandwich to",Charles,George,1,0.89332,0.0
+"During the trip, Elizabeth spoke with Jacob, and Elizabeth passed the camera to",Jacob,Elizabeth,0,2.24787,0.0
+"Yesterday Jacob and George went hiking. Later, Jacob offered a sandwich to",George,Jacob,0,5.77971,-0.34804
+"Yesterday Jacob and Charles went hiking. Later, Jacob offered a sandwich to",Charles,Jacob,0,3.70877,-0.29105
+"During the trip, Martin spoke with George, and George passed the camera to",Martin,George,1,0.34921,0.0
+"Yesterday Sophie and Elizabeth went hiking. Later, Sophie offered a sandwich to",Elizabeth,Sophie,0,2.23499,-0.15516
+"Yesterday Charles and Sophie went hiking. Later, Sophie offered a sandwich to",Charles,Sophie,1,3.77544,0.0

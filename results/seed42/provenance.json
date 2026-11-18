@@ -1,0 +1,39 @@
+{
+  "source_archives_sha256": {
+    "ioi_sae_project_english_fixed.zip": "43c32046d21c7b3c9698cfea2184709e31943b4b8f7337478c2492edd74e3fa1",
+    "ioi_sae_results (1).zip": "79614f7553f27f7bf09ffb49ee3c8665ccde20abfdd1ae1a9ef9cead8d18d00e"
+  },
+  "original_tensor_files_sha256": {
+    "acts_dev_layer8.pt": "75dafda911ed8222b6068e68f33dc036dfca0deb6fd8fead3c3206e08eb04efb",
+    "acts_ood_layer8.pt": "8e4d240a13e9fa98703aafc195bbb54d685a334ca782afd5303271c8021a7fab",
+    "acts_test_layer8.pt": "30aed431f8fd0c1b62a621940d629345f648a4d5468da249da3aa6b012d3844d",
+    "acts_train_layer8.pt": "88437dc791258834c1d825cc2da9f2ebd0563ae9e7c7222680ad6b1937e05e28",
+    "sae_layer8.pt": "f9a5f620bcaf9c0dae132fb9d913b1c33305fa1822cdb94ddcbc3045462ad4aa"
+  },
+  "cache_prompt_sha256": {
+    "train": "f835b624f737e574a5cba0b62a97b8fb130a6350927017ffbc7751a5af4b3b84",
+    "dev": "589e203ae38f57f5bdffff5737f0ab36ff711214521b589c85a4dc5c268a88ef",
+    "test": "0ceaf448d2a0c3c6789b4c5e34d876bccb3d210fd6b6e5b65bac36b9d0d19233",
+    "ood": "44fead9fb34ed72c45604fd115b4ce268df9366569aebc1981b449f55cdd12ff"
+  },
+  "evidence_files_sha256": {
+    "ood_examples.csv": "8da8c0c4740964826afd5760e48d4503abeeb89ff66cbe73c7ca9f04f972093a",
+    "prompts/dev.json": "2ea9fccf487e6b06286681bf1ab41a649228408893f3468bb25115d014832c89",
+    "prompts/metadata.json": "17607afbea9178ab1509e30ca2d5a8efea7337da2e515e3e28372b7cfdbcd3a8",
+    "prompts/ood.json": "5abe9f9764238bb7dac3f12df32caa3232f12b6135961365969a928e63a8c5ea",
+    "prompts/test.json": "716882064dd61e85f8a22b445bfcfb51fd8af57e57ff4140da4cbdcd7d56eb23",
+    "prompts/train.json": "e9788ca2944429d17c14cbe165b2a4978c3b439c10f8023820890e28b9de9435",
+    "residuals.npz": "2863c68c7521f063060fde0c1a7e42d0b481337591d6a882b2b9f1d1e970a1bc",
+    "sae_config.json": "312397a461e849d9dda8f66dcd3ecd59b73b8c2faa04c5d9372e027398151fc3",
+    "sae_weights.npz": "858ac3bbb6a9a730dd61f6ce95516ff5d058e904622b10797d53d98686a61cdc",
+    "test_examples.csv": "8570514049f3b66aedf064131526c598d48237fff2a74372c6c8d2270940df16"
+  },
+  "recorded_run_environment": {
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130",
+    "transformers": "4.57.6",
+    "device": "cuda"
+  },
+  "tensor_format": "The NPZ files keep the same float32 numbers as the original PyTorch files. The SAE arrays keep their original names. Each set of GPT-2 values uses the same row order as its prompts.",
+  "logit_table_precision": "The CSV files give the score gap and its change to five decimal places."
+}

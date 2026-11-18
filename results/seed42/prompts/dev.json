@@ -1,0 +1,1122 @@
+[
+  {
+    "prompt": "At the market, Joseph met Rachel, and Rachel gave a present to",
+    "subject": "Rachel",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Peter and Robert arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, John met Andrew, and Andrew gave a present to",
+    "subject": "Andrew",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When John and Robert went to the store, Robert gave a bottle to",
+    "subject": "Robert",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, John met Peter, and Peter gave a present to",
+    "subject": "Peter",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Kelly met Andrew, and Kelly gave a present to",
+    "subject": "Kelly",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Rachel met Andrew, and Rachel gave a present to",
+    "subject": "Rachel",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Andrew and Kelly went to the store, Kelly gave a bottle to",
+    "subject": "Kelly",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Robert met John, and John gave a present to",
+    "subject": "John",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Nathan and Peter visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Rachel and Robert arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When John and Joseph arrived at school, John passed a note to",
+    "subject": "John",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Kelly and John went to the store, Kelly gave a bottle to",
+    "subject": "Kelly",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Robert and Nathan went to the store, Robert gave a bottle to",
+    "subject": "Robert",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Robert and Kelly arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Joseph and Robert arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Peter and Joseph arrived at school, Peter passed a note to",
+    "subject": "Peter",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Robert and Nathan arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, John met Joseph, and John gave a present to",
+    "subject": "John",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Peter and Nathan went to the store, Nathan gave a bottle to",
+    "subject": "Nathan",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When John and Nathan went to the store, Nathan gave a bottle to",
+    "subject": "Nathan",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When John and Peter went to the store, John gave a bottle to",
+    "subject": "John",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Peter and Kelly went to the store, Kelly gave a bottle to",
+    "subject": "Kelly",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Kelly met Peter, and Peter gave a present to",
+    "subject": "Peter",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Peter met Rachel, and Rachel gave a present to",
+    "subject": "Rachel",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Andrew and Kelly went to the store, Andrew gave a bottle to",
+    "subject": "Andrew",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After John and Joseph visited the park, John handed a ball to",
+    "subject": "John",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Robert met Rachel, and Robert gave a present to",
+    "subject": "Robert",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Andrew and Peter went to the store, Andrew gave a bottle to",
+    "subject": "Andrew",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After John and Nathan visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Andrew met Rachel, and Andrew gave a present to",
+    "subject": "Andrew",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Kelly and Rachel visited the park, Kelly handed a ball to",
+    "subject": "Kelly",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Kelly and Joseph arrived at school, Joseph passed a note to",
+    "subject": "Joseph",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Rachel and Peter went to the store, Rachel gave a bottle to",
+    "subject": "Rachel",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Peter met Andrew, and Peter gave a present to",
+    "subject": "Peter",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Robert and Nathan visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Peter and Joseph went to the store, Peter gave a bottle to",
+    "subject": "Peter",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Rachel and Kelly arrived at school, Rachel passed a note to",
+    "subject": "Rachel",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Rachel and Peter visited the park, Peter handed a ball to",
+    "subject": "Peter",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Joseph met Kelly, and Joseph gave a present to",
+    "subject": "Joseph",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Joseph met Nathan, and Joseph gave a present to",
+    "subject": "Joseph",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Andrew and Rachel arrived at school, Andrew passed a note to",
+    "subject": "Andrew",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Peter met Joseph, and Joseph gave a present to",
+    "subject": "Joseph",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Andrew met Peter, and Peter gave a present to",
+    "subject": "Peter",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After John and Joseph visited the park, Joseph handed a ball to",
+    "subject": "Joseph",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Joseph and Nathan visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Nathan and John arrived at school, Nathan passed a note to",
+    "subject": "Nathan",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Robert and Andrew visited the park, Robert handed a ball to",
+    "subject": "Robert",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Andrew and Nathan visited the park, Andrew handed a ball to",
+    "subject": "Andrew",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Rachel and Andrew visited the park, Rachel handed a ball to",
+    "subject": "Rachel",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Nathan and Andrew arrived at school, Andrew passed a note to",
+    "subject": "Andrew",
+    "io": "Nathan",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Peter and John went to the store, John gave a bottle to",
+    "subject": "John",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Kelly and Andrew visited the park, Kelly handed a ball to",
+    "subject": "Kelly",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Kelly met Nathan, and Nathan gave a present to",
+    "subject": "Nathan",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Joseph and Robert visited the park, Robert handed a ball to",
+    "subject": "Robert",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, John met Rachel, and John gave a present to",
+    "subject": "John",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Nathan and Robert visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "Robert",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Peter met Kelly, and Kelly gave a present to",
+    "subject": "Kelly",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Joseph met Robert, and Robert gave a present to",
+    "subject": "Robert",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Nathan and Rachel went to the store, Nathan gave a bottle to",
+    "subject": "Nathan",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, John met Andrew, and John gave a present to",
+    "subject": "John",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Kelly met Robert, and Robert gave a present to",
+    "subject": "Robert",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Joseph and John visited the park, Joseph handed a ball to",
+    "subject": "Joseph",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Robert and Rachel went to the store, Robert gave a bottle to",
+    "subject": "Robert",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Robert met Nathan, and Nathan gave a present to",
+    "subject": "Nathan",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Andrew and Kelly visited the park, Andrew handed a ball to",
+    "subject": "Andrew",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Rachel and Peter visited the park, Rachel handed a ball to",
+    "subject": "Rachel",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Robert and Joseph went to the store, Joseph gave a bottle to",
+    "subject": "Joseph",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Robert and Nathan went to the store, Nathan gave a bottle to",
+    "subject": "Nathan",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Rachel and Joseph arrived at school, Joseph passed a note to",
+    "subject": "Joseph",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Peter and John visited the park, John handed a ball to",
+    "subject": "John",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Rachel and Peter arrived at school, Rachel passed a note to",
+    "subject": "Rachel",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Peter and Andrew visited the park, Peter handed a ball to",
+    "subject": "Peter",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Nathan and Andrew went to the store, Andrew gave a bottle to",
+    "subject": "Andrew",
+    "io": "Nathan",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Kelly and Nathan visited the park, Kelly handed a ball to",
+    "subject": "Kelly",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After John and Andrew visited the park, John handed a ball to",
+    "subject": "John",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Nathan met Peter, and Nathan gave a present to",
+    "subject": "Nathan",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Rachel met John, and Rachel gave a present to",
+    "subject": "Rachel",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Robert and Kelly visited the park, Robert handed a ball to",
+    "subject": "Robert",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Peter and Joseph arrived at school, Joseph passed a note to",
+    "subject": "Joseph",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Nathan met Joseph, and Joseph gave a present to",
+    "subject": "Joseph",
+    "io": "Nathan",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Joseph and Rachel arrived at school, Joseph passed a note to",
+    "subject": "Joseph",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Rachel and John visited the park, Rachel handed a ball to",
+    "subject": "Rachel",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Nathan and John arrived at school, John passed a note to",
+    "subject": "John",
+    "io": "Nathan",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Kelly met Rachel, and Rachel gave a present to",
+    "subject": "Rachel",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Robert and John arrived at school, John passed a note to",
+    "subject": "John",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Joseph and John arrived at school, John passed a note to",
+    "subject": "John",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Peter and Rachel went to the store, Peter gave a bottle to",
+    "subject": "Peter",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Rachel met Nathan, and Rachel gave a present to",
+    "subject": "Rachel",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Kelly and Robert went to the store, Kelly gave a bottle to",
+    "subject": "Kelly",
+    "io": "Robert",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Nathan met Robert, and Robert gave a present to",
+    "subject": "Robert",
+    "io": "Nathan",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Nathan and Rachel arrived at school, Nathan passed a note to",
+    "subject": "Nathan",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Robert and Rachel went to the store, Rachel gave a bottle to",
+    "subject": "Rachel",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Nathan and Robert visited the park, Robert handed a ball to",
+    "subject": "Robert",
+    "io": "Nathan",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When John and Robert arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, John met Peter, and John gave a present to",
+    "subject": "John",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Robert and Peter arrived at school, Peter passed a note to",
+    "subject": "Peter",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Peter and Kelly visited the park, Peter handed a ball to",
+    "subject": "Peter",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Joseph and Andrew visited the park, Andrew handed a ball to",
+    "subject": "Andrew",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Kelly met John, and John gave a present to",
+    "subject": "John",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Peter met Nathan, and Peter gave a present to",
+    "subject": "Peter",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Peter and Kelly visited the park, Kelly handed a ball to",
+    "subject": "Kelly",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Andrew and Kelly arrived at school, Kelly passed a note to",
+    "subject": "Kelly",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Andrew and Rachel visited the park, Rachel handed a ball to",
+    "subject": "Rachel",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Andrew and Peter went to the store, Peter gave a bottle to",
+    "subject": "Peter",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Andrew and Joseph went to the store, Joseph gave a bottle to",
+    "subject": "Joseph",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When John and Joseph went to the store, John gave a bottle to",
+    "subject": "John",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When John and Nathan arrived at school, Nathan passed a note to",
+    "subject": "Nathan",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Peter and Nathan arrived at school, Nathan passed a note to",
+    "subject": "Nathan",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Rachel and Joseph visited the park, Rachel handed a ball to",
+    "subject": "Rachel",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Rachel and Kelly visited the park, Kelly handed a ball to",
+    "subject": "Kelly",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Kelly and Peter arrived at school, Peter passed a note to",
+    "subject": "Peter",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Robert and Peter arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Kelly and John arrived at school, Kelly passed a note to",
+    "subject": "Kelly",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Rachel and John went to the store, Rachel gave a bottle to",
+    "subject": "Rachel",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Robert and Andrew went to the store, Robert gave a bottle to",
+    "subject": "Robert",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Peter and John arrived at school, Peter passed a note to",
+    "subject": "Peter",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Andrew and Rachel arrived at school, Rachel passed a note to",
+    "subject": "Rachel",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After John and Rachel visited the park, John handed a ball to",
+    "subject": "John",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Joseph and Robert arrived at school, Joseph passed a note to",
+    "subject": "Joseph",
+    "io": "Robert",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Kelly met Nathan, and Kelly gave a present to",
+    "subject": "Kelly",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Kelly and Nathan arrived at school, Kelly passed a note to",
+    "subject": "Kelly",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Andrew met Kelly, and Andrew gave a present to",
+    "subject": "Andrew",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Nathan and Andrew visited the park, Andrew handed a ball to",
+    "subject": "Andrew",
+    "io": "Nathan",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Robert and Rachel arrived at school, Robert passed a note to",
+    "subject": "Robert",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Andrew and Kelly visited the park, Kelly handed a ball to",
+    "subject": "Kelly",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Peter and Kelly went to the store, Peter gave a bottle to",
+    "subject": "Peter",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Robert and Rachel visited the park, Rachel handed a ball to",
+    "subject": "Rachel",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Kelly and Andrew arrived at school, Andrew passed a note to",
+    "subject": "Andrew",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Rachel and Nathan went to the store, Nathan gave a bottle to",
+    "subject": "Nathan",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Robert and Joseph visited the park, Robert handed a ball to",
+    "subject": "Robert",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Peter and Nathan visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "Peter",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Robert and John went to the store, Robert gave a bottle to",
+    "subject": "Robert",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Andrew and Nathan visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Joseph and Kelly went to the store, Kelly gave a bottle to",
+    "subject": "Kelly",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Rachel and John arrived at school, John passed a note to",
+    "subject": "John",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Andrew and Peter visited the park, Peter handed a ball to",
+    "subject": "Peter",
+    "io": "Andrew",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Joseph met Nathan, and Nathan gave a present to",
+    "subject": "Nathan",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Robert met Peter, and Robert gave a present to",
+    "subject": "Robert",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Peter and Andrew arrived at school, Peter passed a note to",
+    "subject": "Peter",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Nathan and Kelly went to the store, Nathan gave a bottle to",
+    "subject": "Nathan",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Joseph and Rachel arrived at school, Rachel passed a note to",
+    "subject": "Rachel",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Rachel and John visited the park, John handed a ball to",
+    "subject": "John",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Rachel and Kelly arrived at school, Kelly passed a note to",
+    "subject": "Kelly",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Peter and Joseph visited the park, Peter handed a ball to",
+    "subject": "Peter",
+    "io": "Joseph",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Kelly and John visited the park, John handed a ball to",
+    "subject": "John",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Rachel and Joseph visited the park, Joseph handed a ball to",
+    "subject": "Joseph",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Robert met Joseph, and Joseph gave a present to",
+    "subject": "Joseph",
+    "io": "Robert",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When John and Kelly arrived at school, John passed a note to",
+    "subject": "John",
+    "io": "Kelly",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Kelly met Rachel, and Kelly gave a present to",
+    "subject": "Kelly",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Joseph met Kelly, and Kelly gave a present to",
+    "subject": "Kelly",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Kelly and Andrew went to the store, Kelly gave a bottle to",
+    "subject": "Kelly",
+    "io": "Andrew",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Kelly and John arrived at school, John passed a note to",
+    "subject": "John",
+    "io": "Kelly",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Robert met John, and Robert gave a present to",
+    "subject": "Robert",
+    "io": "John",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Joseph and Peter arrived at school, Peter passed a note to",
+    "subject": "Peter",
+    "io": "Joseph",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Robert met Nathan, and Robert gave a present to",
+    "subject": "Robert",
+    "io": "Nathan",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Rachel and Robert visited the park, Robert handed a ball to",
+    "subject": "Robert",
+    "io": "Rachel",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When John and Kelly went to the store, Kelly gave a bottle to",
+    "subject": "Kelly",
+    "io": "John",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Robert and Peter went to the store, Robert gave a bottle to",
+    "subject": "Robert",
+    "io": "Peter",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Nathan and Rachel visited the park, Nathan handed a ball to",
+    "subject": "Nathan",
+    "io": "Rachel",
+    "io_first": 0,
+    "template_id": 1
+  }
+]

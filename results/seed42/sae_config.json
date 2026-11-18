@@ -1,0 +1,13 @@
+{
+  "model": "openai-community/gpt2",
+  "layer": 8,
+  "d_in": 768,
+  "d_sae": 1536,
+  "k": 32,
+  "steps": 800,
+  "seed": 42,
+  "site": "GPT2 transformer.h[layer] output, final non-padding token",
+  "data_size": 2048,
+  "quick": false,
+  "train_file_sha256": "e9788ca2944429d17c14cbe165b2a4978c3b439c10f8023820890e28b9de9435"
+}

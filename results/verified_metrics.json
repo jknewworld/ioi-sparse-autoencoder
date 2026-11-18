@@ -1,0 +1,196 @@
+{
+  "split_sizes": {
+    "train": 2048,
+    "dev": 160,
+    "test": 160,
+    "ood": 80
+  },
+  "feature_id": 260,
+  "feature_sign_for_io_first": -1,
+  "matched_control_ids": [
+    264,
+    981,
+    810,
+    1116,
+    124,
+    553,
+    1394,
+    44
+  ],
+  "splits": {
+    "dev": {
+      "reconstruction": {
+        "mse_normalized": 0.1481001,
+        "explained_variance": 0.8548456,
+        "mean_active_features": 32.0,
+        "inactive_feature_fraction": 0.8619792
+      },
+      "order_auroc": 0.75625,
+      "active_prompts": 41
+    },
+    "test": {
+      "reconstruction": {
+        "mse_normalized": 0.1485132,
+        "explained_variance": 0.8541494,
+        "mean_active_features": 32.0,
+        "inactive_feature_fraction": 0.8632812
+      },
+      "order_auroc": 0.775,
+      "active_prompts": 44,
+      "probe_order_auroc": 1.0,
+      "logits": {
+        "baseline_mean_gap": 3.2737526,
+        "ablated_mean_gap": 3.177599,
+        "baseline_pairwise_accuracy": 1.0,
+        "ablated_pairwise_accuracy": 1.0,
+        "pairwise_decisions_changed": 0,
+        "mean_change": -0.0961536,
+        "mean_change_ci95": [
+          -0.1241909,
+          -0.0710757
+        ],
+        "rms_change": 0.1972995,
+        "by_order": {
+          "io_first": {
+            "n": 80,
+            "changed": 0,
+            "negative": 0,
+            "mean_change": 0.0
+          },
+          "io_second": {
+            "n": 80,
+            "changed": 44,
+            "negative": 44,
+            "mean_change": -0.1923071
+          }
+        },
+        "by_template": {
+          "0": {
+            "io_first": {
+              "n": 20,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            },
+            "io_second": {
+              "n": 21,
+              "changed": 21,
+              "negative": 21,
+              "mean_change": -0.3876705
+            }
+          },
+          "1": {
+            "io_first": {
+              "n": 19,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            },
+            "io_second": {
+              "n": 23,
+              "changed": 23,
+              "negative": 23,
+              "mean_change": -0.3149343
+            }
+          },
+          "2": {
+            "io_first": {
+              "n": 23,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            },
+            "io_second": {
+              "n": 20,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            }
+          },
+          "3": {
+            "io_first": {
+              "n": 18,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            },
+            "io_second": {
+              "n": 16,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            }
+          }
+        }
+      }
+    },
+    "ood": {
+      "reconstruction": {
+        "mse_normalized": 1.3185103,
+        "explained_variance": -0.3063525,
+        "mean_active_features": 32.0,
+        "inactive_feature_fraction": 0.8971354
+      },
+      "order_auroc": 0.7375,
+      "active_prompts": 19,
+      "probe_order_auroc": 1.0,
+      "logits": {
+        "baseline_mean_gap": 2.7690027,
+        "ablated_mean_gap": 2.709301,
+        "baseline_pairwise_accuracy": 1.0,
+        "ablated_pairwise_accuracy": 1.0,
+        "pairwise_decisions_changed": 0,
+        "mean_change": -0.0597017,
+        "mean_change_ci95": [
+          -0.0873144,
+          -0.0338858
+        ],
+        "rms_change": 0.1340965,
+        "by_order": {
+          "io_first": {
+            "n": 40,
+            "changed": 0,
+            "negative": 0,
+            "mean_change": 0.0
+          },
+          "io_second": {
+            "n": 40,
+            "changed": 19,
+            "negative": 19,
+            "mean_change": -0.1194035
+          }
+        },
+        "by_template": {
+          "0": {
+            "io_first": {
+              "n": 20,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            },
+            "io_second": {
+              "n": 21,
+              "changed": 19,
+              "negative": 19,
+              "mean_change": -0.2274352
+            }
+          },
+          "1": {
+            "io_first": {
+              "n": 20,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            },
+            "io_second": {
+              "n": 19,
+              "changed": 0,
+              "negative": 0,
+              "mean_change": 0.0
+            }
+          }
+        }
+      }
+    }
+  }
+}

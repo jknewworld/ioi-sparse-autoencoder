@@ -1,0 +1,1122 @@
+[
+  {
+    "prompt": "After Elizabeth and Martin visited the park, Martin handed a ball to",
+    "subject": "Martin",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Paul and George went to the store, Paul gave a bottle to",
+    "subject": "Paul",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Sophie and George arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After George and Paul visited the park, George handed a ball to",
+    "subject": "George",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Paul and Charles arrived at school, Paul passed a note to",
+    "subject": "Paul",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Jessica and George visited the park, George handed a ball to",
+    "subject": "George",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When George and Elizabeth arrived at school, Elizabeth passed a note to",
+    "subject": "Elizabeth",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Paul and Jacob visited the park, Jacob handed a ball to",
+    "subject": "Jacob",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Paul met George, and Paul gave a present to",
+    "subject": "Paul",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Paul and George visited the park, George handed a ball to",
+    "subject": "George",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Jacob met Martin, and Martin gave a present to",
+    "subject": "Martin",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After George and Charles visited the park, Charles handed a ball to",
+    "subject": "Charles",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Jacob and Charles visited the park, Jacob handed a ball to",
+    "subject": "Jacob",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Paul met Charles, and Paul gave a present to",
+    "subject": "Paul",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Jessica and Sophie arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Jessica and Paul went to the store, Paul gave a bottle to",
+    "subject": "Paul",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Elizabeth and Sophie arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Martin and Sophie visited the park, Martin handed a ball to",
+    "subject": "Martin",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Martin met Charles, and Martin gave a present to",
+    "subject": "Martin",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Elizabeth and Charles went to the store, Charles gave a bottle to",
+    "subject": "Charles",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Charles and George visited the park, Charles handed a ball to",
+    "subject": "Charles",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Charles and George arrived at school, Charles passed a note to",
+    "subject": "Charles",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Jacob and Sophie visited the park, Sophie handed a ball to",
+    "subject": "Sophie",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Paul and Charles visited the park, Paul handed a ball to",
+    "subject": "Paul",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Charles and Sophie visited the park, Charles handed a ball to",
+    "subject": "Charles",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Jessica and Paul went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Jessica and Sophie went to the store, Sophie gave a bottle to",
+    "subject": "Sophie",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Jacob and Sophie arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Jacob and Charles arrived at school, Charles passed a note to",
+    "subject": "Charles",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Jessica met Jacob, and Jessica gave a present to",
+    "subject": "Jessica",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When George and Martin went to the store, George gave a bottle to",
+    "subject": "George",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Elizabeth and Sophie went to the store, Elizabeth gave a bottle to",
+    "subject": "Elizabeth",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Martin met Elizabeth, and Martin gave a present to",
+    "subject": "Martin",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Jacob and George arrived at school, Jacob passed a note to",
+    "subject": "Jacob",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Charles and Jessica went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Sophie met Paul, and Sophie gave a present to",
+    "subject": "Sophie",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Martin and Charles went to the store, Charles gave a bottle to",
+    "subject": "Charles",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Paul met Sophie, and Paul gave a present to",
+    "subject": "Paul",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Sophie met Charles, and Charles gave a present to",
+    "subject": "Charles",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When George and Jacob went to the store, George gave a bottle to",
+    "subject": "George",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Sophie and Jessica went to the store, Sophie gave a bottle to",
+    "subject": "Sophie",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Elizabeth met Jessica, and Jessica gave a present to",
+    "subject": "Jessica",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Sophie and George arrived at school, George passed a note to",
+    "subject": "George",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Martin and Elizabeth visited the park, Martin handed a ball to",
+    "subject": "Martin",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Jessica and Jacob arrived at school, Jessica passed a note to",
+    "subject": "Jessica",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Jessica and Sophie went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Jacob and Jessica visited the park, Jacob handed a ball to",
+    "subject": "Jacob",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Jessica and Sophie visited the park, Jessica handed a ball to",
+    "subject": "Jessica",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Sophie met Elizabeth, and Elizabeth gave a present to",
+    "subject": "Elizabeth",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Elizabeth and Charles arrived at school, Charles passed a note to",
+    "subject": "Charles",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Sophie and Jacob visited the park, Sophie handed a ball to",
+    "subject": "Sophie",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Paul and Elizabeth visited the park, Elizabeth handed a ball to",
+    "subject": "Elizabeth",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Jacob met Elizabeth, and Elizabeth gave a present to",
+    "subject": "Elizabeth",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Elizabeth and George went to the store, Elizabeth gave a bottle to",
+    "subject": "Elizabeth",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Sophie and Jessica arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Martin and Paul arrived at school, Paul passed a note to",
+    "subject": "Paul",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Jessica met Paul, and Jessica gave a present to",
+    "subject": "Jessica",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Martin and George arrived at school, George passed a note to",
+    "subject": "George",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Jacob met Sophie, and Jacob gave a present to",
+    "subject": "Jacob",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Martin and Jessica visited the park, Jessica handed a ball to",
+    "subject": "Jessica",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When George and Charles arrived at school, Charles passed a note to",
+    "subject": "Charles",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When George and Martin arrived at school, George passed a note to",
+    "subject": "George",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Jacob and Elizabeth went to the store, Elizabeth gave a bottle to",
+    "subject": "Elizabeth",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Jessica and Elizabeth went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Elizabeth and Paul arrived at school, Paul passed a note to",
+    "subject": "Paul",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Jacob and Elizabeth visited the park, Jacob handed a ball to",
+    "subject": "Jacob",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Jessica and Jacob went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Paul and Elizabeth visited the park, Paul handed a ball to",
+    "subject": "Paul",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Jacob and Sophie went to the store, Sophie gave a bottle to",
+    "subject": "Sophie",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Jacob and Elizabeth arrived at school, Elizabeth passed a note to",
+    "subject": "Elizabeth",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Martin and Jessica visited the park, Martin handed a ball to",
+    "subject": "Martin",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Sophie and Martin went to the store, Martin gave a bottle to",
+    "subject": "Martin",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Charles and Elizabeth visited the park, Charles handed a ball to",
+    "subject": "Charles",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Charles and Elizabeth arrived at school, Elizabeth passed a note to",
+    "subject": "Elizabeth",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, George met Sophie, and Sophie gave a present to",
+    "subject": "Sophie",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Jessica and Charles went to the store, Charles gave a bottle to",
+    "subject": "Charles",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Charles met Sophie, and Charles gave a present to",
+    "subject": "Charles",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Jacob and Sophie arrived at school, Jacob passed a note to",
+    "subject": "Jacob",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Charles and George went to the store, George gave a bottle to",
+    "subject": "George",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Charles and Jessica arrived at school, Charles passed a note to",
+    "subject": "Charles",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Jacob met George, and Jacob gave a present to",
+    "subject": "Jacob",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When George and Jessica arrived at school, George passed a note to",
+    "subject": "George",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Paul and Elizabeth arrived at school, Paul passed a note to",
+    "subject": "Paul",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Charles and Jacob went to the store, Charles gave a bottle to",
+    "subject": "Charles",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Sophie and Paul arrived at school, Paul passed a note to",
+    "subject": "Paul",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Paul and Sophie arrived at school, Paul passed a note to",
+    "subject": "Paul",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After George and Jacob visited the park, Jacob handed a ball to",
+    "subject": "Jacob",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Sophie and Charles went to the store, Charles gave a bottle to",
+    "subject": "Charles",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Martin and Jacob arrived at school, Jacob passed a note to",
+    "subject": "Jacob",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Martin and Sophie arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Elizabeth and Jacob went to the store, Jacob gave a bottle to",
+    "subject": "Jacob",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Jacob and Jessica went to the store, Jacob gave a bottle to",
+    "subject": "Jacob",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After George and Elizabeth visited the park, George handed a ball to",
+    "subject": "George",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When George and Sophie arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Charles met Jacob, and Charles gave a present to",
+    "subject": "Charles",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Martin met Paul, and Paul gave a present to",
+    "subject": "Paul",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When George and Paul went to the store, Paul gave a bottle to",
+    "subject": "Paul",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Elizabeth and Charles went to the store, Elizabeth gave a bottle to",
+    "subject": "Elizabeth",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Sophie and Paul visited the park, Sophie handed a ball to",
+    "subject": "Sophie",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Paul and George went to the store, George gave a bottle to",
+    "subject": "George",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Sophie and George visited the park, George handed a ball to",
+    "subject": "George",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Paul and Jessica arrived at school, Jessica passed a note to",
+    "subject": "Jessica",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Jacob met George, and George gave a present to",
+    "subject": "George",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, George met Paul, and Paul gave a present to",
+    "subject": "Paul",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Jessica met Paul, and Paul gave a present to",
+    "subject": "Paul",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, George met Jessica, and Jessica gave a present to",
+    "subject": "Jessica",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Martin met George, and George gave a present to",
+    "subject": "George",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Elizabeth and George arrived at school, Elizabeth passed a note to",
+    "subject": "Elizabeth",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Martin and Charles arrived at school, Martin passed a note to",
+    "subject": "Martin",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, George met Martin, and Martin gave a present to",
+    "subject": "Martin",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "At the market, Jessica met Elizabeth, and Elizabeth gave a present to",
+    "subject": "Elizabeth",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Martin and Sophie visited the park, Sophie handed a ball to",
+    "subject": "Sophie",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When George and Paul arrived at school, George passed a note to",
+    "subject": "George",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Martin and Jacob arrived at school, Martin passed a note to",
+    "subject": "Martin",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Sophie and Paul went to the store, Paul gave a bottle to",
+    "subject": "Paul",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Paul and Charles arrived at school, Charles passed a note to",
+    "subject": "Charles",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Paul and George arrived at school, Paul passed a note to",
+    "subject": "Paul",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Charles and Elizabeth went to the store, Elizabeth gave a bottle to",
+    "subject": "Elizabeth",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Sophie and Elizabeth went to the store, Elizabeth gave a bottle to",
+    "subject": "Elizabeth",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Sophie and Martin arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After Paul and Jacob visited the park, Paul handed a ball to",
+    "subject": "Paul",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Paul and Martin visited the park, Paul handed a ball to",
+    "subject": "Paul",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Charles and Martin went to the store, Charles gave a bottle to",
+    "subject": "Charles",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Elizabeth met Jessica, and Elizabeth gave a present to",
+    "subject": "Elizabeth",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Jacob and Charles went to the store, Jacob gave a bottle to",
+    "subject": "Jacob",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Sophie and Elizabeth visited the park, Sophie handed a ball to",
+    "subject": "Sophie",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Charles met George, and George gave a present to",
+    "subject": "George",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Jessica and Martin went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Elizabeth met Charles, and Elizabeth gave a present to",
+    "subject": "Elizabeth",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Elizabeth and Charles visited the park, Charles handed a ball to",
+    "subject": "Charles",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Jacob met Jessica, and Jessica gave a present to",
+    "subject": "Jessica",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Sophie and Charles visited the park, Charles handed a ball to",
+    "subject": "Charles",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "At the market, Elizabeth met Martin, and Martin gave a present to",
+    "subject": "Martin",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Sophie and Paul arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Sophie and Jacob went to the store, Jacob gave a bottle to",
+    "subject": "Jacob",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Martin and Jacob went to the store, Martin gave a bottle to",
+    "subject": "Martin",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "At the market, Charles met Paul, and Paul gave a present to",
+    "subject": "Paul",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Jessica and Elizabeth visited the park, Elizabeth handed a ball to",
+    "subject": "Elizabeth",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Elizabeth and George arrived at school, George passed a note to",
+    "subject": "George",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, George met Charles, and George gave a present to",
+    "subject": "George",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "After Jacob and Jessica visited the park, Jessica handed a ball to",
+    "subject": "Jessica",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Jessica and Sophie visited the park, Sophie handed a ball to",
+    "subject": "Sophie",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Paul and Sophie arrived at school, Sophie passed a note to",
+    "subject": "Sophie",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Sophie and Jessica arrived at school, Jessica passed a note to",
+    "subject": "Jessica",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "At the market, Charles met Jessica, and Charles gave a present to",
+    "subject": "Charles",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 3
+  },
+  {
+    "prompt": "When Martin and Sophie went to the store, Sophie gave a bottle to",
+    "subject": "Sophie",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Martin and Paul went to the store, Martin gave a bottle to",
+    "subject": "Martin",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Jessica and Charles visited the park, Jessica handed a ball to",
+    "subject": "Jessica",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Charles and Jessica visited the park, Charles handed a ball to",
+    "subject": "Charles",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Jessica and Elizabeth arrived at school, Jessica passed a note to",
+    "subject": "Jessica",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 2
+  },
+  {
+    "prompt": "After George and Martin visited the park, George handed a ball to",
+    "subject": "George",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "When George and Jessica went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Paul and Martin went to the store, Paul gave a bottle to",
+    "subject": "Paul",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "When Martin and Jessica went to the store, Martin gave a bottle to",
+    "subject": "Martin",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Jacob and Paul visited the park, Paul handed a ball to",
+    "subject": "Paul",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "When Elizabeth and Jessica arrived at school, Jessica passed a note to",
+    "subject": "Jessica",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 2
+  },
+  {
+    "prompt": "When Jessica and George went to the store, Jessica gave a bottle to",
+    "subject": "Jessica",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "After Martin and Elizabeth visited the park, Elizabeth handed a ball to",
+    "subject": "Elizabeth",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Jacob and George visited the park, George handed a ball to",
+    "subject": "George",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "After Jacob and Paul visited the park, Jacob handed a ball to",
+    "subject": "Jacob",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 1
+  }
+]

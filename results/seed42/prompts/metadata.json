@@ -1,0 +1,59 @@
+{
+  "seed": 42,
+  "names": {
+    "train": [
+      "Alex",
+      "Simon",
+      "Martha",
+      "Alice",
+      "Richard",
+      "Emily",
+      "Arthur",
+      "Diana",
+      "Jack",
+      "Kevin",
+      "Anna",
+      "Nick",
+      "Karen",
+      "Matthew",
+      "Brian",
+      "Steve",
+      "Sarah",
+      "Laura",
+      "William",
+      "David"
+    ],
+    "dev": [
+      "Andrew",
+      "Robert",
+      "Nathan",
+      "Peter",
+      "Kelly",
+      "Rachel",
+      "John",
+      "Joseph"
+    ],
+    "test": [
+      "Elizabeth",
+      "Jacob",
+      "Jessica",
+      "Charles",
+      "Martin",
+      "George",
+      "Sophie",
+      "Paul"
+    ]
+  },
+  "templates_train": [
+    "When {first} and {second} went to the store, {subject} gave a bottle to",
+    "After {first} and {second} visited the park, {subject} handed a ball to",
+    "When {first} and {second} arrived at school, {subject} passed a note to",
+    "At the market, {first} met {second}, and {subject} gave a present to"
+  ],
+  "templates_ood": [
+    "Yesterday {first} and {second} went hiking. Later, {subject} offered a sandwich to",
+    "During the trip, {first} spoke with {second}, and {subject} passed the camera to"
+  ],
+  "condition": "IO is the person mentioned once; subject is the person mentioned twice.",
+  "warning": "Name sets are disjoint across train/dev/test; OOD shares test names but has new templates."
+}

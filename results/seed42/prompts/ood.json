@@ -1,0 +1,562 @@
+[
+  {
+    "prompt": "Yesterday Elizabeth and Charles went hiking. Later, Charles offered a sandwich to",
+    "subject": "Charles",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jacob and Jessica went hiking. Later, Jacob offered a sandwich to",
+    "subject": "Jacob",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Sophie and Jessica went hiking. Later, Jessica offered a sandwich to",
+    "subject": "Jessica",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Martin spoke with Sophie, and Sophie passed the camera to",
+    "subject": "Sophie",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday George and Sophie went hiking. Later, George offered a sandwich to",
+    "subject": "George",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jessica and Martin went hiking. Later, Jessica offered a sandwich to",
+    "subject": "Jessica",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jacob and Paul went hiking. Later, Paul offered a sandwich to",
+    "subject": "Paul",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday George and Elizabeth went hiking. Later, George offered a sandwich to",
+    "subject": "George",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Martin and Sophie went hiking. Later, Sophie offered a sandwich to",
+    "subject": "Sophie",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Martin and Jacob went hiking. Later, Martin offered a sandwich to",
+    "subject": "Martin",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jessica and Jacob went hiking. Later, Jacob offered a sandwich to",
+    "subject": "Jacob",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with Charles, and Elizabeth passed the camera to",
+    "subject": "Elizabeth",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Elizabeth and Paul went hiking. Later, Elizabeth offered a sandwich to",
+    "subject": "Elizabeth",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Paul spoke with Martin, and Martin passed the camera to",
+    "subject": "Martin",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Paul spoke with Jacob, and Jacob passed the camera to",
+    "subject": "Jacob",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with George, and Jacob passed the camera to",
+    "subject": "Jacob",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Sophie spoke with George, and Sophie passed the camera to",
+    "subject": "Sophie",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Sophie and Martin went hiking. Later, Sophie offered a sandwich to",
+    "subject": "Sophie",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, George spoke with Jacob, and Jacob passed the camera to",
+    "subject": "Jacob",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Martin and Charles went hiking. Later, Charles offered a sandwich to",
+    "subject": "Charles",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with George, and Elizabeth passed the camera to",
+    "subject": "Elizabeth",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Jessica spoke with Paul, and Paul passed the camera to",
+    "subject": "Paul",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Jessica and Elizabeth went hiking. Later, Jessica offered a sandwich to",
+    "subject": "Jessica",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Martin and Elizabeth went hiking. Later, Martin offered a sandwich to",
+    "subject": "Martin",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Charles spoke with Elizabeth, and Elizabeth passed the camera to",
+    "subject": "Elizabeth",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Charles spoke with Martin, and Charles passed the camera to",
+    "subject": "Charles",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with Martin, and Elizabeth passed the camera to",
+    "subject": "Elizabeth",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with George, and George passed the camera to",
+    "subject": "George",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Sophie and Jacob went hiking. Later, Sophie offered a sandwich to",
+    "subject": "Sophie",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with Jessica, and Jacob passed the camera to",
+    "subject": "Jacob",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Paul and Jessica went hiking. Later, Paul offered a sandwich to",
+    "subject": "Paul",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Charles and Martin went hiking. Later, Martin offered a sandwich to",
+    "subject": "Martin",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with Paul, and Jacob passed the camera to",
+    "subject": "Jacob",
+    "io": "Paul",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with Sophie, and Sophie passed the camera to",
+    "subject": "Sophie",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday George and Jessica went hiking. Later, George offered a sandwich to",
+    "subject": "George",
+    "io": "Jessica",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Jessica spoke with Martin, and Martin passed the camera to",
+    "subject": "Martin",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with Martin, and Jacob passed the camera to",
+    "subject": "Jacob",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Elizabeth and Martin went hiking. Later, Elizabeth offered a sandwich to",
+    "subject": "Elizabeth",
+    "io": "Martin",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Jessica spoke with Sophie, and Jessica passed the camera to",
+    "subject": "Jessica",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Charles spoke with George, and Charles passed the camera to",
+    "subject": "Charles",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Charles spoke with Jessica, and Jessica passed the camera to",
+    "subject": "Jessica",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Sophie and Jacob went hiking. Later, Jacob offered a sandwich to",
+    "subject": "Jacob",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with George, and George passed the camera to",
+    "subject": "George",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Elizabeth and Jessica went hiking. Later, Jessica offered a sandwich to",
+    "subject": "Jessica",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Jessica spoke with Elizabeth, and Jessica passed the camera to",
+    "subject": "Jessica",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Charles spoke with Martin, and Martin passed the camera to",
+    "subject": "Martin",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Sophie and George went hiking. Later, George offered a sandwich to",
+    "subject": "George",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jacob and George went hiking. Later, George offered a sandwich to",
+    "subject": "George",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with Charles, and Charles passed the camera to",
+    "subject": "Charles",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with Charles, and Charles passed the camera to",
+    "subject": "Charles",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with Jessica, and Jessica passed the camera to",
+    "subject": "Jessica",
+    "io": "Jacob",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Paul spoke with Jessica, and Jessica passed the camera to",
+    "subject": "Jessica",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday George and Sophie went hiking. Later, Sophie offered a sandwich to",
+    "subject": "Sophie",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Sophie spoke with Jacob, and Sophie passed the camera to",
+    "subject": "Sophie",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Charles spoke with Paul, and Paul passed the camera to",
+    "subject": "Paul",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Sophie and Charles went hiking. Later, Charles offered a sandwich to",
+    "subject": "Charles",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jessica and Charles went hiking. Later, Charles offered a sandwich to",
+    "subject": "Charles",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Paul and Sophie went hiking. Later, Paul offered a sandwich to",
+    "subject": "Paul",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Paul and Jacob went hiking. Later, Paul offered a sandwich to",
+    "subject": "Paul",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jessica and Paul went hiking. Later, Paul offered a sandwich to",
+    "subject": "Paul",
+    "io": "Jessica",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jessica and Sophie went hiking. Later, Jessica offered a sandwich to",
+    "subject": "Jessica",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Elizabeth and George went hiking. Later, Elizabeth offered a sandwich to",
+    "subject": "Elizabeth",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Paul and Jacob went hiking. Later, Jacob offered a sandwich to",
+    "subject": "Jacob",
+    "io": "Paul",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, George spoke with Jessica, and Jessica passed the camera to",
+    "subject": "Jessica",
+    "io": "George",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Elizabeth and Paul went hiking. Later, Paul offered a sandwich to",
+    "subject": "Paul",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Jessica spoke with George, and Jessica passed the camera to",
+    "subject": "Jessica",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Jacob spoke with Sophie, and Jacob passed the camera to",
+    "subject": "Jacob",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Elizabeth and Sophie went hiking. Later, Sophie offered a sandwich to",
+    "subject": "Sophie",
+    "io": "Elizabeth",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Paul spoke with Sophie, and Paul passed the camera to",
+    "subject": "Paul",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with Sophie, and Elizabeth passed the camera to",
+    "subject": "Elizabeth",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Paul spoke with Charles, and Paul passed the camera to",
+    "subject": "Paul",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "During the trip, Sophie spoke with George, and George passed the camera to",
+    "subject": "George",
+    "io": "Sophie",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Elizabeth and Sophie went hiking. Later, Elizabeth offered a sandwich to",
+    "subject": "Elizabeth",
+    "io": "Sophie",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Charles and George went hiking. Later, George offered a sandwich to",
+    "subject": "George",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Elizabeth spoke with Jacob, and Elizabeth passed the camera to",
+    "subject": "Elizabeth",
+    "io": "Jacob",
+    "io_first": 0,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Jacob and George went hiking. Later, Jacob offered a sandwich to",
+    "subject": "Jacob",
+    "io": "George",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Jacob and Charles went hiking. Later, Jacob offered a sandwich to",
+    "subject": "Jacob",
+    "io": "Charles",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "During the trip, Martin spoke with George, and George passed the camera to",
+    "subject": "George",
+    "io": "Martin",
+    "io_first": 1,
+    "template_id": 1
+  },
+  {
+    "prompt": "Yesterday Sophie and Elizabeth went hiking. Later, Sophie offered a sandwich to",
+    "subject": "Sophie",
+    "io": "Elizabeth",
+    "io_first": 0,
+    "template_id": 0
+  },
+  {
+    "prompt": "Yesterday Charles and Sophie went hiking. Later, Sophie offered a sandwich to",
+    "subject": "Sophie",
+    "io": "Charles",
+    "io_first": 1,
+    "template_id": 0
+  }
+]
