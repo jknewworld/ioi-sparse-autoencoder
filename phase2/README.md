@@ -1,64 +1,62 @@
-# Phase 2: Counterfactual Role Swaps and SAE Feature Steering
+# Phase 2: Counterfactual Role Swaps and Feature Steering
 
-**Status: implementation added; Phase 2 experiments have not been run or verified yet.**
+**Status: the 48-pair run is complete. Results were checked for internal consistency against 3,456 saved rows. GPT-2 was not independently rerun for this verification.**
 
-Phase 1 selected SAE feature 260 using development prompts, and found that removing it lowered the correct-minus-subject logit gap on some held-out IOI prompts. The model's pairwise choice never changed. The next question is whether this feature follows the indirect object's role and whether its direction has a reliable effect beyond an ordinary perturbation.
+This phase continues the [Phase 1 IOI SAE study](../README.md). It reuses the trained layer-8 Top-K SAE and feature 260, which was selected on Phase 1 development prompts.
 
 ## Research questions
 
-1. **Counterfactual response:** With the same two names and sentence template, does feature 260 respond differently when the subject and indirect object swap roles?
-2. **Dose response:** Does subtracting or adding multiples of the selected feature's contribution produce a systematic change in the correct-minus-subject logit gap?
-3. **Controls:** Is the selected direction different from matched SAE decoder directions when all directions are given the same intervention magnitude on each prompt?
+1. When we change which name is repeated as the subject, does feature 260 change with the indirect object's role?
+2. Does subtracting or adding its decoded contribution systematically change the correct-minus-subject logit gap?
+3. Is this effect stronger than the effects of eight SAE decoder directions with the same per-prompt edit magnitude?
 
-These are stronger tests than visual inspection, but no single one proves that a feature represents the semantic IO role.
+## Key findings
 
-## Run in Google Colab
+| Metric | Observed value |
+| --- | ---: |
+| Counterfactual pairs | 48 |
+| Prompts | 96 |
+| Feature 260 order AUROC | 0.8125 |
+| Pairs with response in expected direction | 30 / 48 |
+| Feature-active prompts | 30 / 96 |
+| Mean logit-gap change at strength -1.0 | -0.10538 |
+| Mean logit-gap change at strength +1.0 | +0.09731 |
+| Pairwise predictions flipped | 0 |
 
-Open a GPU runtime, then run these cells:
+The selected direction had an RMS gap change of 0.20531 at strength -1.0, compared with 0.02419–0.13424 for the eight control directions. All observed effects were limited to two of four sentence templates, so the evidence does not show a general indirect-object feature.
 
-```python
-!git clone --branch phase2-counterfactual-steering https://github.com/jknewworld/ioi-sparse-autoencoder.git
-%cd /content/ioi-sparse-autoencoder
-!pip install -q -r requirements.txt
-!python -m pytest -q
+![Mean gap change under steering](figures/steering.svg)
+
+![Template-dependent intervention effects](figures/by_template.svg)
+
+[Read the complete English Phase 2 report](PHASE2_REPORT.md).
+
+## Data and reproducibility
+
+The [evidence folder](evidence/) contains the original row-level evidence, split into nine CSV files (one for the selected direction and one for each control), plus a JSON summary of the stored run. No rows have been dropped. The summary was reconstructed from the row-level CSV together with the original saved counterfactual metadata. It is not byte-identical to the initially uploaded JSON.
+
+Run the offline check:
+
+```bash
+python -m phase2.verify_results
 ```
 
-Run a small experimental batch first:
+The script reconstructs the original CSV byte stream, checks its original SHA-256, validates 3,456 rows, and recomputes the intervention metrics. It **does not** rerun GPT-2.
 
-```python
-!python -m phase2.run_phase2 --pairs 8 --out runs/phase2_smoke
+## Reproduce the GPU experiment in Colab
+
+Install the requirements from the repository root and run:
+
+```bash
+python -m pip install -r requirements.txt
+python -m pytest -q
+python -m phase2.run_phase2 --pairs 48 --out runs/phase2
 ```
 
-Then run the main paired study:
+The script downloads GPT-2 Small and uses the Phase 1 weights saved under `results/seed42/`. For a quick test, change `--pairs 48` to `--pairs 8`.
 
-```python
-!python -m phase2.run_phase2 --pairs 48 --out runs/phase2
-```
+## Limits
 
-The first run downloads GPT-2 Small. You need access to the saved Phase 1 weights under `results/seed42/` (already present in this repository).
+The role swap changes multiple input tokens, not just a single hidden semantic variable. Feature 260 did not flip any pairwise decision; it only changed the size of the logit gap. Only one SAE seed, one layer, eight control directions, and four already-seen templates were tested. Generalization to new sentence templates remains unresolved; Phase 1 had poor OOD reconstruction. See the full report for details.
 
-## Outputs
-
-- `phase2_summary.json`: paired feature statistics, intervention effects and stated limitations.
-- `steering_examples.csv`: one row per prompt, intervention strength and control direction.
-
-**Do not copy any Phase 2 numbers into README or the research report before checking that both output files are complete and the experiment ran without errors.**
-
-## Method
-
-The study uses the held-out test-name pool and Phase 1 sentence templates. It produces two prompts for each ordered pair of names. Both prompts retain the same first and second names and template; the repeated subject changes, so the indirect object also changes.
-
-It uses the saved SAE and the original selected feature and control IDs without selecting a new feature. Steering strengths are `-1`, `-0.5`, `+0.5`, and `+1`, relative to the original selected feature's activation. A strength of `-1` removes its decoded contribution from the residual stream. A strength of `+1` adds one more copy. Controls use their own decoder direction but the selected feature's per-prompt activation magnitude, which makes the edit norm comparable.
-
-The output reports mean and RMS logit-gap change, pairwise accuracy, and an AUROC for the role-swap prompts. Because the role swap changes text tokens as well as the semantic role, it is not a perfect single-variable causal intervention. The test also does not establish whether feature 260 generalizes to novel templates, new model layers, or other training seeds.
-
-## Before calling Phase 2 complete
-
-- Run the code on GPU and check that no errors occur.
-- Verify the generated JSON and CSV, including the number of prompts and conditions.
-- Examine effects separately for each template and each IO order.
-- Confirm the selected direction is not merely matched by control directions.
-- Add checked plots and a short report with negative as well as positive findings.
-- Repeat with new SAE training seeds and consider new templates if feasible.
-
-All code, comments, file names, and report text in this phase are English.
+The experiments are complete for this two-phase project, but these limitations remain appropriate topics for future work.
