@@ -25,6 +25,16 @@ All 19 changes on new patterns came from the hiking sentences. The exact wording
 
 ![Average score change and number of affected sentences for each pattern](figures/ablation_by_template.png)
 
+## Phase 2: Counterfactual role swaps and steering
+
+The follow-up experiment used the same SAE and selected feature 260 on **48 role-swapped prompt pairs** (96 prompts). Feature 260 separated the two name orders with AUROC **0.8125** and changed in the expected direction for **30/48 pairs**. Removing its decoded contribution changed the correct-name logit gap by **-0.10538** on average; adding one extra contribution changed it by **+0.09731**. No prompt switched its preferred name. The effect only appeared on two of the four sentence templates.
+
+The selected direction showed a larger RMS effect than the eight tested matched-magnitude control directions. This is evidence of a **template-dependent causal effect on the logit gap**, not evidence of a general-purpose indirect-object concept.
+
+[Phase 2 code and instructions](phase2/README.md) · [Verified research report](phase2/PHASE2_REPORT.md) · [Steering figure](phase2/figures/steering.svg) · [Template figure](phase2/figures/by_template.svg) · [Saved evidence](phase2/evidence/)
+
+The saved results were checked against all 3,456 CSV rows, but GPT-2 was not independently rerun during this verification. Further work includes new sentence templates and multiple SAE training seeds.
+
 ## Check the results
 
 Run these commands in the main project folder. The check uses the saved model weights, GPT-2 values, and scores for each prompt. It runs on a CPU and works offline after you install the packages.
